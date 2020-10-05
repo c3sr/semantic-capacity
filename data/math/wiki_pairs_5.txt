@@ -1,0 +1,1070 @@
+differential calculus	differentiation rule
+population genetics	mutation
+algebraic topology	surgery theory
+production planning	lean manufacturing
+digital signal processing	geometry processing
+cryptography	disk encryption
+geolocation	geosocial networking
+symbol	emoticon
+lighting	light pollution
+omics	proteomics
+graph theory	network theory
+theoretical computer science	quantum information science
+oscillation	wave
+probability theory	probability interpretation
+tornado	tornado
+cryptography	security engineering
+measure theory	probability theory
+cryptography	key management
+omics	phenomics
+semiotics	nonverbal communication
+optic	nonlinear optic
+holism	system thinking
+combinatorial optimization	network flow problem
+complex analysis	complex number
+series	television series
+dynamical system	arithmetic dynamic
+geometric topology	surgery theory
+complex analysis	analytic number theory
+graph theory	mathematical chemistry
+topology	geometric topology
+radiation	electromagnetic radiation
+number theory	diophantine approximation
+structural analysis	finite element method
+applied statistic	environmental statistic
+artificial intelligence	knowledge representation
+computational linguistics	natural language processing
+algorithm	numerical analysis
+combinatorics	sieve theory
+formal method	formal specification
+military	military organization
+proof theory	mathematical induction
+social statistic	official statistic
+computer vision	machine vision
+calculus	monadology
+geolocation	tracking
+control theory	control engineering
+combinatorics	combinatorial chemistry
+automation	automated teller machine
+size	volume
+demographic	market segmentation
+genetic algorithm	gene expression programming
+game theory	poker strategy
+mathematical analysis	finite difference
+epidemiology	epidemic
+number theory	modular arithmetic
+lighting	light art
+mathematical logic	recursion
+mathematical analysis	numerical analysis
+emergence	interaction
+discrete geometry	finite geometry
+geometry	trigonometry
+algebra	abstract algebra
+social network	geosocial networking
+heat transfer	heat exchanger
+artificial intelligence	cloud robotics
+computer vision	digital geometry
+statistical analysis	survival analysis
+semantics	general semantics
+strategy	defense
+harmonic analysis	fourier analysis
+group theory	moonshine theory
+artificial intelligence	logic programming
+time	past
+trigonometry	trigonometric function
+decision theory	expected utility
+category theory	topos theory
+neurotechnology	neurostimulation
+discrete mathematics	number theory
+rotation	rotational symmetry
+computational linguistics	natural language generation
+distance	length
+modular arithmetic	quadratic residue
+cybernetics	artificial neural network
+omics	genomics
+volume	density
+probability theory	conditional probability
+population	ageing
+statistic	applied statistic
+statistical theory	statistical inference
+mathematical logic	model theory
+differential geometry	symplectic geometry
+atmospheric thermodynamics	temperature
+abstract algebra	boolean algebra
+communication	notation
+control theory	feedback
+graph theory	graph operation
+robotics	robot control
+audio electronics	digital audio
+human migration	internal migration
+quantum computing	quantum programming
+cryptography	quantum cryptography
+resonance	orbital resonance
+combinatorics	enumerative combinatorics
+marketing strategy	market segmentation
+marketing strategy	value proposition
+semiotics	semantics
+emergence	holism
+system science	system engineering
+graph theory	algebraic graph theory
+digital signal processing	speech processing
+inventory optimization	lean manufacturing
+military	military medicine
+statistical theory	statistical randomness
+topology	general topology
+military	military personnel
+military	military strategy
+category theory	higher category theory
+machine learning	unsupervised learning
+elementary arithmetic	multiplication
+linear algebra	numerical linear algebra
+abstract algebra	differential algebra
+algebraic geometry	nonlinear algebra
+information theory	algorithmic information theory
+computational linguistics	speech recognition
+space	geometry
+dimension	space
+symbolism	astrology
+set theory	descriptive set theory
+interpolation	multivariate interpolation
+symbol	trademark
+communication	teaching
+population genetics	selection
+singularity theory	bifurcation theory
+real analysis	real number
+authentication	identification
+wave	acoustic
+space	distance
+resource description framework	sparql
+mathematical analysis	perturbation theory
+demographic	demographic history
+theoretical computer science	computational learning theory
+artificial intelligence	automated reasoning
+algebraic geometry	invariant theory
+reductionism	teleology
+system science	cybernetics
+algebraic topology	homotopy theory
+computability theory	hypercomputation
+reductionism	monism
+differential topology	manifold
+abstract algebra	algebraic combinatorics
+electromagnetic spectrum	gamma ray
+fuzzy logic	predicate logic
+key management	public key infrastructure
+combinatorial optimization	linear programming
+symbol	diacritic
+symbol	pictograms
+evolutionary algorithm	genetic programming
+operation research	network theory
+size	mass
+simulation	simulation software
+image processing	digital photography
+golden ratio	fibonacci number
+signal processing	audio electronics
+elementary mathematics	integer
+cybernetics	control theory
+strategic management	marketing strategy
+geometry	geometric graph theory
+tessellation	girih
+fourier analysis	fourier series
+differential equation	ordinary differential equation
+computational mathematics	computational statistic
+category theory	universal algebra
+group theory	representation theory
+language	language interpretation
+robotics	physical computing
+space	outer space
+speech processing	speech synthesis
+demography	death
+epidemiology	observational study
+population statistic	demographic
+communication	communication design
+abstract algebra	relational algebra
+human migration	gentrification
+differential geometry	manifold
+statistic	computational statistic
+electrodynamics	light
+algebraic topology	homology theory
+human migration	nomad
+number theory	arithmetic dynamic
+demography	population
+cryobiology	cryopreservation
+coding theory	neural coding
+electromagnetic radiation	electromagnetic spectrum
+combinatorics	special function
+computational complexity theory	circuit complexity
+knowledge representation	belief revision
+acoustic	sound
+emergence	system thinking
+military strategy	reconnaissance
+mass	density
+language	vocabulary
+number theory	langlands program
+formal method	program analysis
+optic	holography
+nonverbal communication	posture
+mathematical economics	general equilibrium theory
+computer vision	image segmentation
+ethnicity	ethnic conflict
+electromagnetic spectrum	radio spectrum
+operation research	industrial engineering
+cryogenics	liquid helium
+theoretical computer science	evolutionary computation
+graph theory	extremal graph theory
+population genetics	biodiversity
+information theory	data compression
+difference	discrimination
+differential geometry	tensor
+video processing	video compression
+electromagnetic radiation	electromagnetic compatibility
+official statistic	crime statistic
+language	philology
+differential geometry	general relativity
+dynamical system	complex dynamic
+computational neuroscience	neural coding
+general relativity	black hole
+field theory	galois theory
+computational mathematics	computational number theory
+game theory	evolutionary game theory
+computer security	information privacy
+arithmetic	multiplication
+gaussian function	normal distribution
+communication	mass medium
+darkness	night
+multilinear algebra	tensor
+vision	visual perception
+statistical analysis	descriptive statistic
+algebraic geometry	noncommutative geometry
+human migration	urbanization
+applied mathematics	mathematical psychology
+geometry	conformal geometry
+mathematical economics	mathematical finance
+semiotics	language
+mass	force
+stochastic optimization	stochastic control
+fire	candle
+logic programming	inductive logic programming
+topology	differential topology
+demographic	income distribution
+algebra	linear algebra
+lattice theory	boolean algebra
+embedded system	avionics
+geometry	incidence geometry
+key management	digital signature
+geometric topology	knot theory
+applied mathematics	mathematical finance
+time	reversible computing
+computer security	computational trust
+discrete geometry	tessellation
+time	future
+differential geometry	geometric flow
+elementary arithmetic	subtraction
+network theory	combinatorial optimization
+knowledge representation	dewey decimal classification
+logic programming	constraint programming
+system science	system theory
+asymmetry	entropy
+signal processing	digital signal processing
+difference	asymmetry
+statistical theory	information theory
+cybernetics	bionics
+probability	probability theory
+geometric topology	manifold
+machine learning	supervised learning
+death	palliative care
+calculus	fractional calculus
+time	horology
+computer security	transport layer security
+voltage	voltage regulation
+optic	spectroscopy
+quantum information science	quantum programming
+rotation	angle
+optic	light
+discrete mathematics	discrete geometry
+applied mathematics	algorithm
+embedded system	digital camera
+asymmetry	asymmetric information
+linear algebra	multilinear algebra
+electromagnetic spectrum	optical spectrum
+expected utility	prospect theory
+military	military law
+game theory	combinatorial game theory
+randomness	coincidence
+phase transition	cryobiology
+machine learning	computational learning theory
+system thinking	quality management
+mathematical analysis	differential geometry
+cheminformatics	combinatorial chemistry
+mathematical logic	boolean algebra
+geometry	topology
+applied mathematics	mathematical economics
+gerontology	geriatrics
+dynamical system	control engineering
+dynamical system	symbolic dynamic
+operation research	engineering statistic
+evolutionary algorithm	gene expression programming
+trigonometry	pi
+heat transfer	fire
+discrete mathematics	combinatorics
+computational complexity theory	parameterized complexity
+statistical randomness	random number generation
+multivariable calculus	vector calculus
+image processing	mathematical morphology
+bioinformatics	phylogenetics
+automation	machinery
+optic	fiber optic
+population	population genetics
+artificial intelligence	robot
+language	linguistics
+geometry	differential geometry
+series	map series
+biostatistics	medical statistic
+probability theory	probability distribution
+biostatistics	bioinformatics
+statistical process control	fault tolerance
+mathematical logic	type theory
+arithmetic	mental calculation
+security engineering	access control
+differential equation	bifurcation theory
+artificial intelligence	evolutionary computation
+mathematical analysis	harmonic analysis
+combinatorics	permutation
+information theory	detection theory
+resource description framework	web ontology language
+applied statistic	statistical mechanic
+vision	blindness
+homological algebra	homology theory
+geometry	technical drawing
+graph theory	graph rewriting
+demography	human migration
+quantum computing	quantum cryptography
+system thinking	technology assessment
+cryptography	cryptography standard
+machine learning	cluster analysis
+substructural logic	linear logic
+dimension	dimensional analysis
+coding theory	data compression
+topology	network topology
+graph theory	graph coloring
+probability	randomness
+algebraic number theory	integer
+set theory	determinacy
+vertical position	topography
+computational statistic	variance reduction
+cryptography	steganography
+numerical analysis	mathematical optimization
+arithmetic	addition
+differential geometry	singularity theory
+fire	fire protection
+computability theory	combinatory logic
+demography	gerontology
+digital humanity	text encoding initiative
+computational geometry	convex hull algorithm
+finite element method	mesh generation
+gerontology	ageing
+fire	arson
+machine learning	artificial neural network
+demography	biostatistics
+numerical analysis	mesh generation
+photochemistry	photosynthesis
+artificial intelligence	knowledge engineering
+supercomputer	supercomputer operating system
+statistic	statistical theory
+nonverbal communication	human position
+knowledge engineering	knowledge representation
+optic	nonimaging optic
+dynamical system	stability theory
+time	causality
+abstract algebra	group theory
+system science	operation research
+rational number	integer
+dynamical system	electrodynamics
+light	lighting
+computational science	computer algebra
+vestibular system	vestibulocochlear nerve
+abstract algebra	representation theory
+algebraic number theory	class field theory
+evolutionary computation	evolutionary algorithm
+darkness	light pollution
+light	vision
+control theory	resonance
+distance	vertical position
+information theory	information geometry
+symbol	symbolism
+symmetry	rotational symmetry
+temperature	cold
+scientific visualization	flow visualization
+system thinking	business continuity
+data mining	process mining
+field theory	algebraic number theory
+optic	microscopy
+epidemiology	genetic epidemiology
+geolocation	indoor positioning system
+vision	ophthalmology
+distance	height
+real number	rational number
+artificial neural network	neural network software
+cybernetics	artificial life
+building automation	home automation
+computational neuroscience	artificial intelligence
+radiation	cosmic ray
+linear algebra	convex geometry
+algebra	computer algebra
+light	photon
+computational mathematics	computational geometry
+vision	optometry
+abstract algebra	algebraic geometry
+vision	imaging
+home automation	smart device
+calculus	multivariable calculus
+chess	computer chess
+number theory	prime number
+operator theory	fredholm theory
+pattern formation	emergence
+network performance	reverse proxy
+network theory	network analysis
+category theory	categorical logic
+abstract algebra	algebraic topology
+denotational semantics	domain theory
+character encoding	braille
+algebraic geometry	tropical geometry
+formal method	turing machine
+dynamical system	entropy
+riemannian geometry	hodge theory
+voltage	capacitance
+transport layer security	public key infrastructure
+machinery	industrial machinery
+model theory	universal algebra
+area	integral calculus
+mathematical analysis	differential topology
+time	time management
+holism	modularity
+access control	authentication
+interest rate	federal reserve system
+image processing	medical imaging
+algebra	algebraic graph theory
+arithmetic	subtraction
+logic programming	automated theorem proving
+computational complexity theory	quantum complexity theory
+semantics	lexical semantics
+death	euthanasia
+vision	saccade
+strategy	strategic management
+industrial engineering	industrial ecology
+dimensional analysis	natural unit
+feedback	biofeedback
+applied statistic	engineering statistic
+size	distance
+multivariable calculus	partial differential equation
+special relativity	minkowski spacetime
+structuralism	difference
+machine learning	genetic programming
+temperature	thermoregulation
+security engineering	computer security
+mathematical optimization	combinatorial optimization
+series	film series
+image processing	image segmentation
+euclidean geometry	kinematics
+statistical theory	probability interpretation
+theoretical computer science	graph theory
+graph theory	matching
+simulation	stochastic simulation
+emergence	reductionism
+transport phenomenon	diffusion
+strategy	poker strategy
+computer vision	mathematical morphology
+type theory	type inference
+computational mathematics	automated theorem proving
+electromagnetic spectrum	ultraviolet radiation
+geometry	molecular geometry
+mathematical analysis	real analysis
+fire	smoke
+embedded system	robot
+recreational mathematics	arithmetic dynamic
+computer security	mobile security
+mathematical physic	statistical mechanic
+signal processing	image processing
+topology	topological graph theory
+heat transfer	thermoregulation
+probability theory	statistical randomness
+dynamical system	critical phenomenon
+algebraic topology	homological algebra
+algebraic geometry	intersection theory
+control theory	stability theory
+control theory	motion control
+optic	invisibility
+fire	incineration
+optic	geometrical optic
+machinery	agricultural machinery
+structural bioinformatics	molecular modelling
+program analysis	static program analysis
+mathematical logic	automated theorem proving
+death	undead
+mathematical analysis	fractal
+image compression	jbig
+logic programming	belief revision
+difference	quantity
+model theory	finite model theory
+several complex variable	complex dynamic
+order theory	domain theory
+mathematical analysis	complex analysis
+building automation	temperature control
+mathematical physic	chaos theory
+critical phenomenon	renormalization group
+digital right management	digital watermarking
+abstract algebra	category theory
+abstract algebra	universal algebra
+information theory	quantum computing
+statistical mechanic	percolation theory
+geometry	noncommutative geometry
+category theory	homological algebra
+computational complexity theory	quantum computing
+galaxy	supermassive black hole
+semantics	analogy
+drying	desiccation
+generic programming	metaprogramming
+phylogenetics	genealogy
+wave	resonance
+tornado	tornadogenesis
+dynamical system	chaos theory
+electromagnetic radiation	radiometry
+bioinformatics	omics
+general relativity	gravitational lensing
+combinatorics	algebraic combinatorics
+elementary mathematics	elementary arithmetic
+population	world population
+distance	statistical distance
+artificial intelligence	fuzzy logic
+machine learning	evolutionary algorithm
+light	gravitational lensing
+geometry	inversive geometry
+applied statistic	geostatistics
+homology theory	simplicial homology
+transport phenomenon	convection
+bioinformatics	neuroinformatics
+system science	system ecology
+communication	interpretation
+combinatorics	ramsey theory
+mathematical analysis	mathematical optimization
+artificial life	emergence
+darkness	dark matter
+length	height
+algebraic topology	knot theory
+differential equation	stability theory
+algorithm	computer algebra
+computational neuroscience	neurotechnology
+chess	chess title
+communication	deception
+computability theory	recursion
+asymmetry	handedness
+complex analysis	potential theory
+control engineering	automation
+character encoding	collation
+complex number	real number
+algebra	universal algebra
+machine learning	bayesian network
+statistical mechanic	statistical physic
+ethnicity	ethnic group
+dynamical system	oscillation
+topology	manifold
+photochemistry	ultraviolet radiation
+computational mathematics	numerical analysis
+functional analysis	operator theory
+mathematical logic	set theory
+thermodynamics	thermodynamic equation
+signal processing	detection theory
+engineering statistic	statistical process control
+homeostasis	thermoregulation
+death	last word
+optic	photonics
+network topology	mesh networking
+applied mathematics	mathematical chemistry
+algebra	elementary algebra
+image compression	jpeg
+quantum information science	quantum computing
+symbolic interactionism	max weber
+algorithm	computational statistic
+computational mathematics	computer algebra
+discrete mathematics	theoretical computer science
+communication	language
+mathematical economics	game theory
+network theory	network flow problem
+abstract algebra	ring theory
+system science	system psychology
+semantics	definition
+semiotics	signage
+mathematical analysis	fourier analysis
+mathematical analysis	functional analysis
+computer vision	photogrammetry
+automation	home automation
+order theory	lattice theory
+social statistic	population statistic
+population	population density
+theoretical computer science	algorithm
+elementary arithmetic	mean
+medical statistic	epidemiology
+logical consequence	inference
+analytic number theory	additive number theory
+semantics	ambiguity
+subtraction	finite difference
+robotics	robot
+convex analysis	convex optimization
+computational science	artificial life
+mathematical analysis	microlocal analysis
+population	population ecology
+numerical analysis	approximation theory
+coding theory	character encoding
+avionics	radio direction finding
+multilinear algebra	invariant theory
+mathematical analysis	measure theory
+automation	building automation
+control theory	stochastic control
+number theory	analytic number theory
+differential calculus	differential equation
+applied mathematics	applied statistic
+algebraic geometry	analytic geometry
+algorithm	computational physic
+embedded system	firmware
+statistical analysis	sensitivity analysis
+functional analysis	approximation theory
+semiotics	symbolism
+statistical inference	statistical hypothesis testing
+field theory	classical field theory
+artificial intelligence	computer vision
+bayesian statistic	bayesian network
+language	terminology
+category theory	information geometry
+chaos theory	fractal
+artificial intelligence	cognitive architecture
+computational statistic	artificial neural network
+parsing	lexical analysis
+demography	demographic
+death	cell death
+computer security	access control
+spacetime	time
+recreational mathematics	combinatorial game theory
+signal processing	geometry processing
+operator theory	singular value decomposition
+thermodynamics	convection
+evolutionary computation	artificial life
+geometry	symmetry
+asymmetric information	mechanism design
+position	vertical position
+computational mathematics	computational topology
+mathematical optimization	convex optimization
+time	time travel
+applied mathematics	operation research
+vision	visual art
+linear algebra	spectral theory
+height	vertical position
+optic	quantum optic
+probability theory	large deviation theory
+mathematical logic	modal logic
+differential topology	singularity theory
+electromagnetic spectrum	infrared
+artificial intelligence	affective computing
+algorithm	recursion
+randomness	statistical randomness
+automated reasoning	automated theorem proving
+electromagnetic radiation	synchrotron radiation
+recursion	mathematical induction
+size	area
+differential calculus	marginal concept
+diophantine equation	pythagorean theorem
+algebraic topology	topological graph theory
+cybernetics	semiotics
+geometry	algebraic geometry
+riemannian geometry	geometric flow
+geographic information system	openstreetmap
+commutative algebra	invariant theory
+light	photochemistry
+time	chronology
+algorithm	digital signal processing
+differential geometry	riemannian geometry
+language	language policy
+statistical inference	model selection
+applied mathematics	theoretical computer science
+system thinking	futurology
+affine geometry	convex geometry
+partial differential equation	dirac equation
+demography	life expectancy
+elementary arithmetic	addition
+computational science	gpgpu
+language	language acquisition
+computational neuroscience	artificial neural network
+robotics	cloud robotics
+information theory	network performance
+formal method	automated theorem proving
+robotics	home automation
+emergence	complex dynamic
+size	length
+theoretical computer science	information theory
+symbol	flag
+statistical mechanic	phase transition
+operation research	management science
+algorithm	pattern matching
+chaos theory	emergence
+electrodynamics	electromagnetic radiation
+singularity theory	morse theory
+acoustic	psychoacoustics
+nuclear fusion	fusion power
+statistical theory	directional statistic
+semiotics	symbolic interactionism
+statistical theory	bayesian statistic
+electromagnetic spectrum	light
+wave	gravitational wave
+statistical mechanic	particle statistic
+operation research	production planning
+classical logic	predicate logic
+kinematics	robot kinematics
+optic	optical coherence tomography
+representation theory	langlands program
+game theory	mechanism design
+cryogenics	superconductivity
+statistical mechanic	renormalization group
+numerical analysis	structural analysis
+control theory	nonlinear control
+logical consequence	deductive reasoning
+heat transfer	heat conduction
+kinematics	acceleration
+computational science	numerical analysis
+human migration	human settlement
+character encoding	unicode
+strategy	military strategy
+numerical analysis	numerical linear algebra
+symplectic geometry	contact geometry
+semantics	nonsense
+computational statistic	data mining
+complex analysis	complex dynamic
+strategic management	technology strategy
+electrodynamics	induction heating
+network performance	queueing theory
+abstract algebra	permutation
+group theory	geometric group theory
+cybernetics	computational neuroscience
+dimension	spacetime
+dynamical system	thermodynamics
+difference	inequality
+pattern matching	regular expression
+optic	imaging
+applied mathematics	cybernetics
+artificial intelligence	machine learning
+geometry	discrete geometry
+dynamical system	hamiltonian mechanic
+discrete mathematics	coding theory
+electromagnetic radiation	cosmic background radiation
+machine learning	reinforcement learning
+information theory	quantum information theory
+subtraction	differential calculus
+mathematical logic	proof theory
+population	longevity
+algorithm	signal processing
+recreational mathematics	cellular automaton
+neurotechnology	neuroprosthetics
+field theory	real closed field
+phase transition	percolation theory
+mathematical analysis	calculus
+automation	avionics
+nuclear fusion	nucleosynthesis
+ring theory	integer
+symmetry	asymmetry
+applied mathematics	actuarial science
+secure communication	computer security
+wave	light
+chirality	handedness
+mathematical logic	algorithm
+theoretical computer science	formal method
+mathematical logic	predicate logic
+differential geometry	information geometry
+semiotics	symbol
+asymmetry	sexual dimorphism
+probability theory	decision theory
+statistical analysis	statistical inference
+machine learning	support vector machine
+automation	motion control
+bioinformatics	structural bioinformatics
+mathematical physic	dynamical system
+geometry	convex geometry
+computational science	cheminformatics
+group theory	galois theory
+discrete geometry	digital geometry
+digital signal processing	speech recognition
+discrete geometry	packing problem
+communication	communication study
+combinatorics	percolation theory
+image processing	color
+evolutionary algorithm	genetic algorithm
+combinatorics	design theory
+abstract algebra	commutative algebra
+system science	chaos theory
+optic	physical optic
+transportation engineering	rail transport
+vision	color vision
+differential topology	symplectic geometry
+functional analysis	noncommutative geometry
+cryogenics	cryotherapy
+computational biology	bioinformatics
+proof theory	substructural logic
+finite model theory	model checking
+communication	communication theory
+ethnicity	cultural heritage
+transportation engineering	traffic management
+electromagnetic radiation	optic
+data compression	video compression
+language	language
+vision	color
+theoretical computer science	pseudorandomness
+access control	identification
+computational chemistry	molecular dynamic
+communication	linguistics
+gerontology	life extension
+mathematical psychology	artificial neural network
+computational physic	computational fluid dynamic
+abstract algebra	homological algebra
+algebraic geometry	birational geometry
+photon	photonics
+operator theory	spectral theory
+algorithm	algorithmic trading
+audio electronics	synchronization
+temperature	temperature control
+geometry	computational geometry
+special function	orthogonal polynomial
+mathematical logic	computability theory
+bayesian statistic	bayesian inference
+geometry	analytic geometry
+theoretical computer science	quantum computing
+symbol	language
+measure theory	integral geometry
+image processing	interpolation
+game theory	fair division
+vision	computer vision
+applied mathematics	cryptography
+thermodynamics	heat conduction
+applied statistic	social statistic
+topology	computational topology
+trigonometry	inverse trigonometric function
+embedded system	robotics
+environmental statistic	population ecology
+secure communication	cryptography
+human migration	emigration
+knowledge representation	semantic web
+categorical logic	topos theory
+electromagnetic radiation	light
+homotopy theory	surgery theory
+mathematical logic	categorical logic
+heat transfer	convection
+computer go	alphago
+bioinformatics	synthetic biology
+mathematical logic	algebraic logic
+vision	pupil
+density	black hole
+phylogenetics	computational phylogenetics
+time	slow motion
+computer vision	geometry processing
+algorithm	evolutionary algorithm
+emergence	system science
+numerical linear algebra	least square
+image processing	image compression
+spacetime	space
+mathematical economics	computational economics
+algebraic geometry	diophantine geometry
+partial differential equation	potential theory
+power control	temperature control
+smart card	emv
+machine learning	inductive logic programming
+applied statistic	statistical genetics
+general relativity	gravitational wave
+model checking	temporal logic
+ethnicity	cultural assimilation
+statistical genetics	population genetics
+digital signal processing	video processing
+trigonometry	spherical trigonometry
+conditional probability	maximum likelihood estimation
+discrete mathematics	graph theory
+modal logic	temporal logic
+mathematical analysis	asymptotic analysis
+computational physic	computational electromagnetics
+dynamical system	ergodic theory
+position	geolocation
+conditional probability	bayesian statistic
+language	writing
+computational physic	molecular dynamic
+computer security	cryptography
+death	immortality
+ethnicity	ethnography
+mathematical optimization	stochastic optimization
+operator theory	functional calculus
+ring theory	field theory
+electrodynamics	quantum electrodynamics
+statistical inference	estimation theory
+death	extinction
+numerical analysis	finite difference
+atmospheric thermodynamics	atmospheric sounding
+statistical analysis	change detection
+geometry	integral geometry
+network performance	wan optimization
+dynamical system	bifurcation theory
+symplectic geometry	hamiltonian mechanic
+combinatorial optimization	travelling salesman problem
+digital signal processing	image processing
+digital right management	copy protection
+algorithm	computational number theory
+semiotics	communication
+analytic number theory	sieve theory
+security engineering	secure communication
+black hole	supermassive black hole
+abstract algebra	algebraic logic
+home automation	temperature control
+information theory	coding theory
+hierarchy	social inequality
+computer security	computer forensics
+demography	epidemiology
+logic programming	constraint logic programming
+graph theory	topological graph theory
+data compression	image compression
+statistical randomness	stochastic process
+machine learning	structured prediction
+constraint programming	constraint logic programming
+combinatorics	combinatorial game theory
+structuralism	dialectical materialism
+differential topology	morse theory
+communication	social medium
+calculus	integral calculus
+transport phenomenon	heat transfer
+calculus	differential calculus
+time series	autocorrelation
+tessellation	mesh generation
+control theory	classical control theory
+applied mathematics	mathematical physic
+series	soap opera
+defense	military
+applied mathematics	computational science
+quantum information science	quantum information theory
+graph theory	geometric graph theory
+special relativity	aether theory
+light	darkness
+cybernetics	emergence
+communication	confession
+semiotics	pragmatic
+system science	holism
+light	light therapy
+symmetry	supersymmetry
+cryogenics	cryopreservation
+differential equation	partial differential equation
+communication	propaganda
+artificial intelligence	robotics
+population	population ethic
+automated reasoning	type inference
+asymmetry	chirality
+classical logic	propositional calculus
+cryptography	ransomware
+abstract algebra	lattice theory
+topology	algebraic topology
+statistical randomness	pseudorandomness
+system science	conformity
+system science	system biology
+differential topology	contact geometry
+general equilibrium theory	comparative static
+arithmetic	elementary arithmetic
+trigonometry	angle
+artificial neural network	deep learning
+computational social science	computational linguistics
+machine learning	deep learning
+omics	glycomics
+dimension	time
+gerontology	senescence
+statistical analysis	multivariate statistic
+secure communication	transport layer security
+technical drawing	descriptive geometry
+quantum information science	quantum complexity theory
+formal method	model checking
+embedded system	smart device
+cybernetics	control engineering
+fire	firefighting
+elementary mathematics	elementary algebra
+space	topology
+population	population statistic
+number theory	computational number theory
+mathematical analysis	mean
+thermodynamics	energetics
+vision	optical spectrum
+game theory	strategy
+difference	competition
+propositional calculus	predicate logic
+automation	robotics
+semiotics	structuralism
+computational linguistics	machine translation
+statistical inference	bayesian inference
+game theory	game design
+algebraic topology	intersection theory
+human migration	immigration
+control theory	optimal control
+propositional calculus	logical consequence
+electrodynamics	computational electromagnetics
+algebraic geometry	singularity theory
+number theory	algebraic number theory
+computational science	scientific visualization
+communication	social network
+computer vision	image processing
+subtraction	distance
+mathematical optimization	pareto efficiency
+semantics	connotation
+machine learning	ensemble learning
+representation theory	invariant theory
+lighting	building automation
+number theory	diophantine equation
+computability theory	lambda calculus
+mathematical logic	classical logic
+interaction	chemical bonding
+military	war
+data mining	cluster analysis
+official statistic	national account
+symmetry	tessellation
+thermodynamics	heat transfer
+spherical geometry	spherical trigonometry
+geometry	sacred geometry
+demography	ethnicity
+applied statistic	biostatistics
+field theory	class field theory
+marketing strategy	competitive intelligence
+complex analysis	special function
+numerical analysis	interpolation
+image compression	texture compression
+ring theory	geometric algebra
+key management	secret sharing
+power control	energy policy
+complex analysis	several complex variable
+multivariable calculus	morse theory
+cybernetics	artificial intelligence
+symbolism	numerology
+supercomputer	cray
+mathematical finance	algorithmic trading
+permutation	serialism
+transport phenomenon	radiation
+applied mathematics	computational mathematics
+actuarial science	demography
+packing problem	circle packing
+combinatorics	graph theory
+computability theory	turing machine
+robotics	machine vision
+differential topology	differential geometry
+statistical theory	probability distribution
+statistical mechanic	critical phenomenon
+critical phenomenon	phase transition
+wave	radiation
+radiation	ionizing radiation
+representation theory	harmonic analysis
+computer security	data security
+operation research	queueing theory
+series	web series
+nuclear fusion	cold fusion
+combinatorics	incidence geometry
+convex geometry	convex analysis
+diophantine equation	diophantine geometry
+vision	visual system
+ethnicity	ethnology
+information geometry	statistical distance
+human migration	forced migration
+industrial engineering	transportation engineering
+mathematical analysis	dynamical system
+linear algebra	singular value decomposition

@@ -1,0 +1,1379 @@
+abstract algebra	2
+academic rank	5
+acceleration	5
+access control	4
+accuracy and precision	5
+acoustic	4
+active fire protection	5
+actuarial science	2
+actuator	5
+addition	2
+additive number theory	3
+adjoint functors	3
+advanced encryption standard	5
+aether theory	5
+affective computing	4
+affine geometry	3
+afterlife	5
+ageing	5
+agricultural machinery	5
+air quality index	5
+alchemical symbol	5
+algebra	2
+algebraic combinatorics	2
+algebraic geometry	2
+algebraic graph theory	2
+algebraic logic	2
+algebraic number theory	2
+algebraic topology	2
+algorithmic art	4
+algorithmic information theory	4
+algorithmic trading	3
+algorithm	2
+alpha centauri	5
+alphago	4
+amalgam comic	5
+ambiguity	5
+american football strategy	4
+analogy	5
+analysis of algorithm	5
+analytic geometry	2
+analytic number theory	2
+anatomically modern human	5
+andromeda galaxy	5
+angle	3
+animal communication	5
+animal crossing	5
+application of randomness	3
+applied mathematics	1
+applied statistic	2
+approximation theory	3
+arbelos	4
+archimedes	3
+architectural lighting design	5
+architecture description language	5
+area	4
+arithmetic	1
+arithmetic dynamic	2
+armscii	5
+arrowverse	5
+arson	5
+artificial intelligence	3
+artificial life	3
+artificial neural network	3
+ascii	5
+assisted suicide	5
+astrology	5
+astronomical symbol	5
+asymmetric information	4
+asymmetrical aircraft	4
+asymmetry	3
+asymptotic analysis	2
+atmosphere	5
+atmosphere of earth	5
+atmospheric dispersion modeling	4
+atmospheric sounding	5
+atmospheric thermodynamics	4
+auction chant	3
+auction theory	3
+audio electronics	4
+audio mixing	5
+authentication	4
+autocad	5
+autocorrelation	5
+automated reasoning	4
+automated teller machine	4
+automated theorem proving	2
+automatic test equipment	5
+automation	3
+avionics	4
+axiom of choice	4
+axiomatic semantics	4
+ayya vaikundar	5
+bamboo network	5
+baseball statistic	5
+basketball statistic	5
+bayesian inference	5
+bayesian network	5
+bayesian statistic	4
+bcd	5
+beam robotics	5
+belief revision	4
+bicycle lighting	5
+bifurcation theory	2
+biocybernetics	4
+biodiversity	5
+biofeedback	5
+bioinformatics	3
+biometrics	5
+bionicle	5
+bionics	3
+biorobotics	5
+biostatistics	3
+birational geometry	3
+bittorrent	5
+black hole	4
+bletchley park	4
+blindness	5
+boolean algebra	2
+braille	4
+braille technology	5
+buffalo six	5
+build automation	5
+building automation	4
+building information modeling	5
+building insulation material	5
+business continuity	5
+byzantine military manual	5
+calculus	1
+calculus of variation	2
+caller id	5
+calorimetry	4
+cambridge analytica	5
+can bus	5
+candelabra	5
+candle	5
+capacitance	5
+card game	5
+cartography	5
+caste	5
+categorical data	5
+categorical logic	2
+category theory	3
+causal inference	5
+causality	5
+celestial coordinate system	3
+cell death	5
+cellular automaton	2
+center of population	4
+central limit theorem	4
+change detection	5
+chaos theory	2
+character encoding	3
+cheating in chess	4
+chemical bonding	5
+chemical thermodynamics	4
+cheminformatics	3
+chess	4
+chess equipment	5
+chess notation	3
+chess strategy	3
+chess tactic	3
+chess theory	2
+chess title	5
+chicago seven	5
+chirality	4
+choctaw code talker	5
+chromatography software	5
+chronology	5
+circle of fifth	5
+circle packing	4
+circuit complexity	5
+clan	5
+class field theory	3
+classical control theory	4
+classical field theory	5
+classical logic	2
+cloud gaming	5
+cloud robotics	4
+cluster analysis	4
+cnc	5
+coat of arm	5
+code lyoko	5
+coding theory	2
+cognitive architecture	4
+cognitive grammar	5
+cognitive inertia	5
+coin flipping	3
+coincidence	4
+cold	5
+cold fusion	5
+collation	4
+color	5
+color space	4
+color vision	5
+coma cluster	5
+combinatorial chemistry	2
+combinatorial game theory	2
+combinatorial optimization	3
+combinatorics	1
+combinatorics on word	2
+combinatory logic	3
+communication	4
+communication design	5
+communication study	5
+communication theory	5
+communication security establishment	4
+community	5
+commutative algebra	3
+comparative static	4
+competition	5
+competitive intelligence	5
+complex analysis	2
+complex dynamic	2
+complex number	3
+complexity economics	4
+computability theory	2
+computational anatomy	4
+computational biology	3
+computational chemistry	4
+computational complexity theory	4
+computational economics	3
+computational electromagnetics	3
+computational fluid dynamic	4
+computational geometry	2
+computational learning theory	3
+computational linguistics	4
+computational mathematics	1
+computational neuroscience	3
+computational number theory	2
+computational phylogenetics	5
+computational physic	3
+computational science	2
+computational social science	4
+computational statistic	2
+computational topology	2
+computational trust	5
+computer access control	5
+computer algebra	2
+computer chess	3
+computer forensics	5
+computer go	3
+computer security	4
+computer security software	5
+computer shogi	3
+computer surveillance	5
+computer vision	4
+concubinage	5
+conditional probability	4
+confession	5
+conformal geometry	2
+conformity	5
+connotation	5
+consonance and dissonance	4
+constraint logic programming	4
+constraint programming	4
+constructible universe	4
+construction grammar	5
+contact geometry	3
+contract bridge probability	3
+control data corporation	5
+control engineering	2
+control theory	3
+convection	3
+convergence test	3
+convex analysis	3
+convex geometry	2
+convex hull algorithm	3
+convex optimization	3
+cooperative economics	5
+copy protection	5
+correspondence chess	5
+cosmic background radiation	4
+cosmic ray	5
+covariance and correlation	5
+coventry transport museum	5
+cray	5
+crime statistic	5
+criminal defense	4
+critical phenomenon	2
+crowdsourcing	5
+cryobiology	4
+cryogenics	4
+cryonics	5
+cryopreservation	5
+cryotherapy	5
+cryptocurrencies	5
+cryptography	2
+cryptography law	3
+cryptography standard	3
+crystallography	5
+cultural assimilation	5
+cultural heritage	5
+cybernetics	2
+cyberpsychology	3
+cyborg in fiction	4
+dark matter	5
+dark triad	4
+dark web	5
+darkness	4
+data compression	3
+data differencing	3
+data encryption standard	4
+data mining	3
+data security	5
+dc animated universe	5
+dc extended universe	5
+death	4
+deception	5
+decision theory	4
+deductive reasoning	5
+deep learning	4
+defense	3
+defensive gun use	5
+definition	5
+demographic economics	5
+demographic history	5
+demographic	4
+demography	3
+demoscene	5
+denotational semantics	3
+density	4
+density functional theory	5
+descriptive geometry	3
+descriptive set theory	3
+descriptive statistic	5
+desiccation	5
+design of experiment	4
+design theory	2
+detection theory	4
+determinacy	3
+dewey decimal classification	5
+diacritic	5
+dialectical materialism	5
+dice	3
+difference	4
+differential algebra	3
+differential calculus	2
+differential equation	3
+differential geometry	2
+differential privacy	4
+differential topology	2
+differentiation rule	3
+diffraction	5
+diffusion	4
+digimon	5
+digital audio	5
+digital camera	5
+digital currency	5
+digital geometry	3
+digital humanity	4
+digital manufacturing	5
+digital marketing	5
+digital photography	5
+digital right management	4
+digital signal processing	3
+digital signature	4
+digital watermarking	5
+dimension	3
+dimensional analysis	4
+diophantine approximation	2
+diophantine equation	2
+diophantine geometry	3
+dirac equation	4
+directional statistic	4
+directx	5
+discrete geometry	2
+discrete mathematics	1
+discrimination	5
+disk encryption	3
+distance	3
+district cooling	5
+divergent series	3
+divisor function	3
+dnssec	5
+domain theory	2
+draught	4
+drying	4
+dualism	5
+dynamic programming	4
+dynamical system	1
+ear training	4
+ebcdic code page	5
+ecofeminism	5
+ecological genetics	5
+economic data	5
+economic system	5
+eight immortal	5
+electrodynamics	2
+electromagnetic compatibility	4
+electromagnetic radiation	3
+electromagnetic spectrum	4
+electronic data interchange	5
+electronic filter topology	5
+electronic fund transfer	5
+electronic test equipment	5
+elementary algebra	2
+elementary arithmetic	2
+elementary mathematics	1
+element of music	4
+elliptic curve cryptography	4
+elseworlds	5
+email authentication	5
+embedded system	4
+emergence	3
+emergent gameplay	4
+emigration	5
+emoticon	5
+emv	5
+endlings	5
+energetics	3
+energy policy	5
+engineering statistic	3
+enigma machine	5
+enneagram	4
+ensemble learning	5
+enterprise modelling	5
+enthalpy	4
+entropy	2
+enumerative combinatorics	2
+environmental communication	5
+environmental statistic	3
+epidemic	5
+epidemiology	4
+equilibrium chemistry	4
+ergodic theory	2
+estimation theory	5
+ethnic conflict	5
+ethnic group	5
+ethnic pornography	5
+ethnic religion	5
+ethnic study	5
+ethnicity	4
+ethnography	5
+ethnology	5
+euclidean geometry	3
+euthanasia	5
+evolution of tetrapod	5
+evolutionary algorithm	3
+evolutionary computation	3
+evolutionary game theory	2
+expected utility	3
+experimental mathematics	1
+expert system	5
+explosive	5
+extinction	5
+extremal graph theory	2
+face recognition	5
+factor analysis	5
+fair division	2
+fault tolerance	5
+federal reserve system	5
+feedback	4
+ferdinand de saussure	5
+feudalism	5
+fiber optic	5
+fibonacci number	3
+fictional serial killer	5
+field theory	4
+film series	5
+financial risk modeling	4
+finite difference	2
+finite element method	4
+finite geometry	3
+finite model theory	3
+fire	5
+fire emblem	5
+fire protection	5
+firefighting	5
+firelighting	5
+firework	5
+firmware	5
+flag	5
+flamethrower	5
+flatulence	5
+flow visualization	4
+fluid mechanic	5
+fog	5
+force	5
+forced migration	5
+forensic statistic	4
+formal method	3
+formal specification	4
+fornax cluster	5
+fortran	5
+forward proxy	5
+foundation of geometry	3
+foundation of mathematics	1
+four heavenly king	5
+fourier analysis	2
+fourier series	3
+fractal	2
+fractional calculus	2
+franchising	5
+fredholm theory	4
+free statistical software	4
+functional analysis	2
+functional calculus	3
+fusion power	5
+future	5
+futurology	5
+fuzzy logic	3
+gabriel knight	5
+galaxy	3
+galaxy in fiction	4
+galois theory	4
+gambling mathematics	2
+game design	2
+game theory	1
+gamma ray	5
+gang of four	5
+gas law	5
+gas separation	5
+gaseous signaling molecule	5
+gaussian function	4
+gear of war	5
+gene expression programming	4
+genealogy	5
+general equilibrium theory	3
+general relativity	3
+general semantics	5
+general topology	2
+generic programming	4
+genetic algorithm	4
+genetic epidemiology	5
+genetic genealogy	5
+genetic programming	4
+genomics	5
+gentrification	5
+geographic information system	4
+geolocation	4
+geomatics	5
+geometric algebra	3
+geometric flow	3
+geometric graph theory	2
+geometric group theory	3
+geometric series	3
+geometric topology	2
+geometrical optic	5
+geometry	1
+geometry of number	2
+geometry processing	4
+geosocial networking	4
+geospatial intelligence	5
+geostatistics	3
+geriatrics	5
+gerontology	4
+girih	4
+gi file format	5
+glycomics	5
+gnutella	5
+go player	4
+golden ratio	3
+google earth	5
+government communication headquarters	4
+gpgpu	3
+grand theft auto	5
+graph coloring	2
+graph drawing	4
+graph operation	2
+graph rewriting	2
+graph theory	1
+gravitational lensing	4
+gravitational wave	4
+greenhouse gas	5
+group theory	3
+guitar tuning	4
+hamiltonian mechanic	2
+handedness	4
+handwriting recognition	5
+harmonic analysis	2
+harmony	5
+hearthstone	5
+heat conduction	3
+heat exchanger	4
+heat transfer	3
+heating	5
+height	4
+heraldry	5
+hidden variable theory	4
+hideo kojima	5
+hierarchy	4
+higher category theory	4
+hilbert space	3
+history of algebra	2
+history of calculus	2
+history of chess	5
+history of communication	5
+history of cryptography	3
+history of geometry	2
+history of thermodynamics	3
+hodge theory	4
+holism	4
+holography	5
+home automation	4
+home sign	5
+homeostasis	4
+homological algebra	3
+homology theory	3
+homomorphic encryption	3
+homotopy theory	3
+horizontal coordinate system	4
+horology	5
+human height	5
+human homeostasis	4
+human migration	5
+human population planning	5
+human position	5
+human settlement	5
+hurricane andrew	5
+hurricane charley	5
+hurricane dean	5
+hurricane dennis	5
+hurricane dorian	5
+hurricane floyd	5
+hurricane george	5
+hurricane harvey	5
+hurricane hazel	5
+hurricane ike	5
+hurricane irene	5
+hurricane irma	5
+hurricane isabel	5
+hurricane ivan	5
+hurricane jeanne	5
+hurricane katrina	5
+hurricane maria	5
+hurricane matthew	5
+hurricane rita	5
+hurricane sandy	5
+hurricane wilma	5
+hyperbolic geometry	3
+hypercomputation	3
+hysteresis	3
+ice hockey statistic	5
+ice trade	5
+ideal gas	5
+identification	5
+image compression	4
+image processing	4
+image segmentation	5
+imaging	5
+immigration	5
+immortality	5
+incidence geometry	2
+incineration	5
+income distribution	5
+indoor positioning system	5
+induction heating	3
+inductive logic programming	4
+industrial ecology	4
+industrial engineering	3
+industrial ethernet	5
+industrial machinery	5
+inequality	5
+inference	5
+information geometry	3
+information privacy	5
+information society	5
+information theory	3
+infrared	5
+insignia	5
+inspector gadget	5
+integer	2
+integral calculus	2
+integral geometry	2
+intellectualism	5
+interaction	4
+interest rate	4
+interference	5
+intergalactic travel	4
+internal migration	5
+international statistical institute	5
+interpolation	3
+interpretation	5
+intersection theory	3
+interspecies communication	5
+intuitionism	3
+invariant theory	2
+inventory optimization	4
+inverse hyperbolic function	4
+inverse trigonometric function	3
+inversive geometry	2
+invisibility	5
+ionizing radiation	5
+irobot	5
+isomorphism theorem	4
+it risk management	5
+jacobi elliptic function	4
+janggi	4
+japanese militarism	5
+jbig	5
+jpeg	5
+julian assange	5
+keeneland	5
+key management	3
+kid icarus	5
+kinematics	4
+kleptography	3
+knight rider	5
+knot theory	3
+knowledge engineering	4
+knowledge representation	4
+labeling theory	5
+lake constance	5
+lambda calculus	3
+langlands program	2
+language	5
+language acquisition	5
+language interpretation	5
+language of flower	5
+language policy	5
+language	5
+laniakea supercluster	5
+large deviation theory	4
+laser tag	4
+laser	5
+last word	5
+lattice theory	2
+law of robotics	5
+law of thermodynamics	3
+lean manufacturing	4
+least square	4
+length	4
+lexical analysis	5
+lexical semantics	5
+life expectancy	4
+life extension	5
+light	3
+light art	5
+light pollution	5
+light therapy	4
+lighting	4
+limit of computation	4
+linear algebra	2
+linear logic	3
+linear programming	4
+linguistics	5
+link analysis	5
+linkedin	5
+liquid helium	5
+list of galaxy	4
+list of integral	4
+list of place	5
+littlebigplanet	5
+local group	5
+local sheet	5
+locksmithing	4
+logic gate	3
+logic programming	3
+logical consequence	4
+logistic regression	5
+longevity	5
+machine learning	4
+machine translation	5
+machine vision	5
+machinery	4
+machinima	5
+magical thinking	5
+magnetic levitation	5
+management science	3
+mancala	4
+manifold	2
+map series	5
+map	5
+marginal concept	3
+market segmentation	5
+marketing strategy	4
+marriage	5
+martial art	5
+martial law	5
+marvel animation	5
+marvel cinematic universe	5
+mass	4
+mass medium	5
+matching	2
+mathematical analysis	1
+mathematical chemistry	2
+mathematical economics	2
+mathematical finance	2
+mathematical induction	3
+mathematical logic	1
+mathematical morphology	5
+mathematical optimization	2
+mathematical physic	2
+mathematical psychology	2
+mathematical software	4
+max weber	5
+maximum likelihood estimation	5
+mean	2
+measure theory	2
+mechanism design	2
+medical imaging	5
+medical statistic	4
+melody	5
+mental calculation	2
+merchant service	5
+mesh generation	3
+mesh networking	3
+metaprogramming	5
+microblogging	5
+microlocal analysis	2
+microscopy	5
+microwave transmission	5
+militarism	4
+military	4
+military art	5
+military law	5
+military medicine	5
+military organization	5
+military personnel	5
+military recruitment	5
+military strategy	3
+military tactic	5
+military terminology	5
+milky way	5
+minkowski spacetime	5
+missile guidance	5
+missing data	5
+misuse of statistic	5
+mobile security	5
+modal logic	2
+model checking	4
+model selection	5
+model theory	2
+modeling and simulation	3
+modular arithmetic	2
+modularity	5
+molecular dynamic	4
+molecular geometry	2
+molecular modelling	5
+molecular vibration	4
+monadology	2
+monism	5
+monster rancher	5
+moonshine theory	3
+moral psychology	5
+morse code	5
+morse theory	3
+motion control	4
+motion control photography	5
+muhajir	5
+multilinear algebra	3
+multiple comparison	3
+multiplication	2
+multivariable calculus	2
+multivariate cryptography	4
+multivariate interpolation	4
+multivariate statistic	5
+musical form	5
+musical tuning	3
+mutation	5
+narcissism	5
+national account	5
+national security agency	4
+natural gas	5
+natural language generation	5
+natural language processing	5
+natural unit	5
+navajo code talker	5
+neanderthal	5
+necrophilia	5
+neon lighting	5
+neopets	5
+netsukuku	5
+network analysis	3
+network flow problem	3
+network performance	4
+network theory	2
+network topology	2
+neural coding	3
+neural network software	4
+neuroinformatics	4
+neuroprosthetics	5
+neurostimulation	5
+neurotechnology	4
+ni no kuni	5
+niels henrik abel	4
+night	5
+nintendo network	5
+nitrogen	5
+no frill	5
+noble gas	5
+nomad	5
+noncommutative geometry	2
+nonimaging optic	5
+nonlinear algebra	3
+nonlinear control	4
+nonlinear optic	5
+nonsense	5
+nonverbal communication	4
+norma cluster	5
+normal distribution	5
+notation	5
+nuclear fusion	4
+nuclear strategy	4
+nucleosynthesis	5
+number theory	1
+numerical analysis	2
+numerical linear algebra	3
+numerology	5
+observational study	5
+octonions	4
+oddworld	5
+official statistic	4
+oligarchy	5
+omics	4
+online banking	5
+onomatopoeia	5
+opengl	5
+openpgp	4
+openstreetmap	5
+operational semantics	4
+operation research	2
+operator theory	3
+ophthalmology	5
+optical character recognition	5
+optical coherence tomography	5
+optical mineralogy	5
+optical spectrum	5
+optic	4
+optimal control	3
+optometry	5
+orbital resonance	5
+order theory	1
+order of magnitude	4
+ordinary differential equation	4
+origami	3
+orthogonal polynomial	3
+oscillation	2
+outer space	5
+packaging machinery	5
+packing problem	3
+palliative care	5
+panel data	5
+paraconsistent logic	3
+parameterized complexity	5
+pareto efficiency	3
+parsing	4
+partial differential equation	3
+particle statistic	4
+past	5
+pattern formation	3
+pattern matching	3
+peer learning	5
+peer review	5
+peer support	5
+percolation theory	2
+perimeter security	4
+permutation	2
+persistence	5
+perspective projection	4
+perturbation theory	2
+phase transition	3
+phenomenology	5
+phenomics	5
+philology	5
+philosophy of language	5
+philosophy of mind	4
+philosophy of psychology	5
+philosophy of time	5
+phonaesthetics	4
+photochemistry	4
+photogrammetry	5
+photographic lighting	5
+photonics	5
+photon	4
+photosynthesis	5
+phylogenetics	4
+physical computing	5
+physical constant	5
+physical optic	5
+pi	3
+pictograms	5
+planescape	5
+playstation network	5
+poker probability	3
+poker strategy	2
+polaris	5
+polygamy	5
+population	4
+population density	5
+population ecology	4
+population ethic	5
+population genetics	4
+population statistic	4
+position	3
+posture	5
+potential theory	3
+power control	4
+pragmatic	4
+prague linguistic circle	5
+precession	5
+predicate logic	2
+prime number	2
+prison food	5
+prison healthcare	5
+probability	2
+probability and statistic	1
+probability distribution fitting	5
+probability distribution	4
+probability interpretation	4
+probability theory	3
+procedural generation	4
+process mining	4
+production planning	3
+program analysis	4
+programming language	5
+programming paradigm	5
+projective geometry	3
+proof theory	2
+propaganda	5
+propositional calculus	3
+prospect theory	4
+proteomics	5
+psephology	4
+pseudorandomness	3
+psychoacoustics	5
+psychopathy	5
+psychrometrics	4
+public key infrastructure	4
+pupil	5
+pyramid	5
+pythagorean theorem	3
+quadratic residue	3
+quality management	5
+quality of service	5
+quantitative marketing research	4
+quantity	5
+quantum complexity theory	4
+quantum computing	3
+quantum cryptography	3
+quantum electrodynamics	3
+quantum information science	3
+quantum information theory	4
+quantum monte carlo	4
+quantum optic	5
+quantum programming	4
+quasar	5
+quaternion	3
+quest for glory	5
+queueing theory	3
+race and health	5
+radiation	4
+radio control	5
+radio direction finding	5
+radio spectrum	5
+radiometry	4
+rail transport	5
+ramsey theory	2
+random number generation	3
+randomness	3
+ransomware	3
+rate of evolution	5
+rational number	3
+ravenloft	5
+real analysis	2
+real closed field	5
+real number	3
+reconnaissance	4
+reconnaissance aircraft	5
+recreational mathematics	1
+recursion	2
+reductionism	4
+refractory metal	5
+refrigerant	5
+regular expression	4
+regular polyhedron	5
+reinforcement learning	5
+relational algebra	3
+renju	4
+renormalization group	3
+reprap project	4
+representation theory	1
+reputation management	5
+resonance	4
+resource description framework	3
+reverse proxy	5
+reversi	4
+reversible computing	5
+riemannian geometry	3
+ring theory	3
+riverbank laboratory	4
+robot control	5
+robot kinematics	5
+robotics	4
+robot	4
+robust statistic	5
+rotation	3
+rotational symmetry	3
+rsa factoring challenge	4
+r	4
+saccade	5
+sacred geometry	2
+saint row	5
+school color	5
+science adventure	5
+science of photography	5
+scientific visualization	3
+second viennese school	5
+secret sharing	4
+secure communication	4
+secure shell	4
+security	5
+security engineering	3
+security software	5
+seismic intensity scale	5
+selection	5
+semantic web	5
+semantics	4
+semiotics	3
+senescence	5
+sensitivity analysis	5
+sensor	5
+serial killer	4
+serialism	3
+series	4
+set theory	2
+seven military classic	5
+several complex variable	3
+sex selection	5
+sexual dimorphism	4
+shading	5
+shapley supercluster	5
+shenmue	5
+shogi	4
+sieve theory	2
+sign language	5
+signage	4
+signal processing	3
+signature	5
+simplicial homology	4
+simulation	4
+simulation software	5
+singular value decomposition	3
+singularitarianism	5
+singularity theory	3
+size	3
+slow motion	5
+smart card	4
+smart device	5
+smog	5
+smoke	5
+soap opera	5
+social bookmarking	5
+social dynamic	5
+social inequality	5
+social medium	5
+social network	3
+social statistic	3
+sociology of language	5
+sodium	5
+software distribution	5
+soil classification	5
+sound	5
+space	4
+space quest	5
+spacetime	4
+spanning tree	3
+sparql	4
+speaker recognition	5
+special function	2
+special relativity	4
+spectral theory	3
+spectroscopy	5
+speech processing	4
+speech recognition	4
+speech synthesis	5
+spherical geometry	3
+spherical trigonometry	3
+squaring the circle	3
+stability theory	2
+stage lighting	5
+static program analysis	5
+statistical analysis	4
+statistical classification	5
+statistical distance	4
+statistical genetics	3
+statistical hypothesis testing	5
+statistical inference	4
+statistical mechanic	3
+statistical physic	4
+statistical process control	4
+statistical randomness	4
+statistical theory	3
+statistic	2
+statistic education	4
+steganography	3
+stern pinball arcade	5
+stochastic control	4
+stochastic optimization	3
+stochastic process	5
+stochastic simulation	5
+stoichiometry	3
+storage war	5
+storm	5
+strategic bombing	5
+strategic management	3
+strategic study	3
+strategy	2
+stress	5
+structural analysis	3
+structural bioinformatics	4
+structural functionalism	5
+structuralism	4
+structured english	4
+structured prediction	5
+student migration	5
+substructural logic	3
+subtraction	2
+sudoku	3
+sun	5
+sun tzu	5
+super mario maker	5
+supercomputer operating system	4
+supercomputer	4
+supercomputing in china	5
+supercomputing in europe	4
+supercomputing in india	5
+supercomputing in japan	5
+supercomputing in pakistan	5
+superconductivity	5
+supermassive black hole	4
+supersymmetry	3
+supervised learning	5
+support vector machine	5
+surgery theory	3
+survival analysis	5
+sustainable business	5
+symbolic dynamic	2
+symbolic interactionism	4
+symbolism	4
+symbol	4
+symmetry	2
+symplectic geometry	3
+synchronization	5
+synchrotron radiation	4
+synthetic biology	4
+systemic functional linguistics	4
+system biology	5
+system ecology	5
+system engineering	5
+system psychology	5
+system science	4
+system theory	5
+system thinking	4
+tamagotchi	5
+teaching	5
+technical drawing	2
+technical drawing tool	3
+technology assessment	5
+technology strategy	4
+teleology	5
+teleportation	5
+television series	5
+temperature	4
+temperature control	5
+temporal logic	3
+tensor	3
+terminology	5
+tessellation	3
+tetrapod	4
+text encoding initiative	5
+texture compression	5
+texture filtering	5
+texture mapping	5
+the culture	5
+the elder scroll	5
+the pinball arcade	5
+the settler	5
+theoretical computer science	2
+theoretical ecology	3
+theory of computation	3
+theory of constraint	5
+theory of mind	5
+theory of relativity	3
+theosophy	5
+thermochemistry	4
+thermodynamic equation	3
+thermodynamic free energy	4
+thermodynamics	2
+thermoregulation	4
+tiktok	5
+timbre	5
+time	4
+time management	5
+time series	4
+time travel	5
+time zone	5
+topography	5
+topological graph theory	2
+topology	1
+toponymy	5
+topos theory	3
+tornado	4
+tornado	4
+tornadogenesis	4
+torsional vibration	4
+tracking	5
+trademark	5
+traffic management	5
+transport layer security	4
+transport phenomenon	3
+transportation engineering	4
+travelling salesman problem	3
+tres fronteras	5
+triangulum galaxy	4
+tribe	5
+trigonometric function	3
+trigonometry	2
+triple deity	4
+tropical cyclone	3
+tropical geometry	3
+tropical storm allison	5
+tsunami	5
+turing machine	3
+type inference	3
+type theory	2
+typhoon haiyan	5
+uberisation	5
+ultimate marvel	5
+ultraviolet radiation	5
+uncrewed spacecraft	5
+undead	5
+undeciphered writing system	5
+unicode	4
+unit of information	4
+universal algebra	2
+unmanned aerial vehicle	5
+unsupervised learning	5
+upsilon andromedae	5
+urbanization	5
+vacuum	5
+value proposition	5
+variance reduction	3
+vector calculus	3
+velocity	5
+venona project	4
+ventilation	5
+vertical position	4
+vestibular system	3
+vestibulocochlear nerve	4
+vexillology	4
+video compression	4
+video game design	3
+video game genre	5
+video game graphic	4
+video processing	4
+virgo cluster	5
+virgo supercluster	5
+vision	4
+visual art	5
+visual perception	5
+visual system	5
+vital statistic	4
+vocabulary	5
+voltage	4
+voltage regulation	5
+volume	4
+wan optimization	5
+war	5
+wave	3
+wave in plasma	4
+web mapping	5
+web ontology language	4
+web series	5
+west memphis three	5
+wiki software	4
+wikileaks	4
+wikimedia	5
+wikimedia foundation	5
+word order	4
+world population	5
+writing	5
+writing system	5
+xbox live	5
+xiangqi	4
+z notation	3
+zero escape	5
+zoomusicology	5
+zoosemiotics	4

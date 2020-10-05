@@ -1,0 +1,100 @@
+compiler construction	program analysis
+theoretical computer science	information theory
+data security	data erasure
+embedded system	smart device
+computer networking	network architecture
+computer graphic	texture mapping
+formal method	automated theorem proving
+software development	software documentation
+interoperability	integration platform
+machine learning	artificial neural network
+computer access control	smart card
+cryptography	disk encryption
+mathematical optimization	convex optimization
+enterprise architecture	architecture description language
+disaster recovery	backup
+computational mathematics	computational statistic
+computer graphic	stereoscopy
+programming language theory	program analysis
+cryptography	steganography
+modal logic	temporal logic
+logic programming	constraint logic programming
+computer graphic	graphic software
+smart device	smart card
+computational science	computational linguistics
+artificial neural network	deep learning
+computer programming	data structure
+computational neuroscience	neurotechnology
+theoretical computer science	evolutionary computation
+digital signal processing	image processing
+formal method	program analysis
+computational linguistics	speech recognition
+combinatorial optimization	network flow problem
+computational complexity theory	parameterized complexity
+software engineering	software maintenance
+software development	software project management
+knowledge representation	semantic web
+image processing	interpolation
+mathematical optimization	combinatorial optimization
+software quality	formal method
+network theory	combinatorial optimization
+computer architecture	operating system
+software design	data modeling
+natural language processing	machine translation
+web development	web analytics
+machine learning	unsupervised learning
+cybercrime	malware
+numerical analysis	numerical linear algebra
+computer access control	federated identity
+procedural generation	demoscene
+robotics	home automation
+computational mathematics	automated theorem proving
+cryptography	quantum cryptography
+vector graphic	scalable vector graphic
+type theory	type inference
+information theory	algorithmic information theory
+denotational semantics	domain theory
+computer graphic	shading
+algorithm	algorithmic trading
+distributed computing	cryptocurrencies
+computability theory	combinatory logic
+theoretical computer science	formal method
+computational physic	computational electromagnetics
+artificial intelligence	logic programming
+cheminformatics	combinatorial chemistry
+algorithm	computational physic
+computer vision	machine vision
+knowledge engineering	knowledge representation
+computational science	computational physic
+model checking	temporal logic
+machine learning	deep learning
+machine learning	ensemble learning
+machine learning	bayesian network
+computational science	computational biology
+procedural generation	algorithmic art
+computer architecture	network architecture
+computer vision	photogrammetry
+computer security	access control
+numerical analysis	finite difference
+computational science	computational social science
+computational linguistics	natural language generation
+cybercrime	computer security
+transport layer security	public key infrastructure
+data modeling	identification
+digital signal processing	speech recognition
+logic programming	constraint programming
+software architecture	architecture description language
+software engineering	web development
+software development	web development
+computational trust	authentication
+logic programming	belief revision
+machine learning	inductive logic programming
+data modeling	formal method
+computational science	computational fluid dynamic
+software engineering	formal method
+computer graphic	raster graphic
+artificial intelligence	automated reasoning
+theoretical computer science	graph theory
+artificial life	emergence
+interoperability	backward compatibility
+security engineering	access control

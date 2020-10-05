@@ -1,0 +1,1872 @@
+abacus	5
+absorption spectroscopy	4
+abstract object theory	2
+ac power	4
+acceleration	3
+accelerator physic	2
+accelerometer	4
+acid	5
+acoustic	2
+actinium	5
+active fire protection	5
+actuator	4
+aden	5
+adjoint functors	5
+admiralty law	5
+advanced micro device	5
+aerial firefighting	5
+aerial ramming	5
+aerodynamics	4
+aeronautics	5
+aerospace	4
+aerospace engineering	5
+aether theory	2
+afromontane	5
+age of discovery	5
+age of sail	5
+agricultural aircraft	5
+agricultural machinery	4
+air liquide	5
+air pollution	4
+aircraft engine	5
+aircraft maintenance	4
+airspeed	4
+alabaster	5
+albert einstein	3
+alcoholic drink	5
+alexander litvinenko	5
+algorithmic information theory	5
+alloy	4
+alpha centauri	5
+aluminium	5
+aluminium alloy	5
+amalgam comic	5
+amateur rocketry	4
+amazon biome	5
+amber	4
+ambisonics	5
+american geophysical union	5
+americium	5
+amun	5
+anaerobic digestion	5
+analog circuit	4
+andaman sea	5
+angle	4
+animal locomotion	3
+animal migration	4
+anoxic water	5
+anthocyanins	5
+anthropic principle	2
+antigen	5
+antimatter	2
+antimicrobial peptide	5
+antimony	5
+antonie van leeuwenhoek	4
+aperture synthesis	5
+aquatic locomotion	4
+aquatic therapy	5
+arabian sea	5
+arboreal locomotion	4
+arc welding	3
+archimedes	5
+architectural lighting design	5
+arctic ocean	4
+arduino	5
+argon	5
+argonne national laboratory	3
+arithmetic dynamic	3
+arm holding	5
+arrowverse	5
+arsenic	5
+arson	4
+artificial intelligence	5
+artillery	5
+asbestos	5
+asphalt	4
+astatine	5
+asteroseismology	3
+astrodynamics	4
+astronautics	5
+astronomical spectroscopy	3
+astroparticle physic	2
+astrophotography	5
+astrophysics	2
+asymmetric information	4
+asymmetrical aircraft	4
+asymmetry	3
+at attachment	5
+ati technology	5
+atlantic ocean	4
+atmosphere	4
+atmosphere of earth	3
+atmospheric chemistry	5
+atmospheric circulation	3
+atmospheric dispersion modeling	5
+atmospheric electricity	3
+atmospheric entry	5
+atmospheric ghost light	5
+atmospheric science	4
+atmospheric sounding	4
+atmospheric thermodynamics	3
+atoll	4
+atomic physic	2
+atomic tourism	5
+atomism	2
+atom	3
+audio electronics	4
+audio engineering	3
+audio mixing	5
+austin power	5
+austronesian language	5
+automatic test equipment	4
+automation	4
+automotive electronics	4
+automotive engineering	4
+avionics	4
+baal	5
+backward compatibility	5
+bacteriology	5
+baffin bay	5
+baikonur cosmodrome	5
+bakelite	4
+ballistics	2
+ballooning	5
+baltic amber	5
+baltic sea	5
+bamboo network	5
+barium	5
+baryon	3
+bat	5
+beam robotics	5
+beaufort sea	5
+berkelium	5
+beryllium	5
+biblical magi	5
+bicycle lighting	5
+bifurcation theory	3
+big bang	2
+bimetal	4
+binoculars	4
+biogeochemical cycle	5
+biogeochemistry	4
+biogeography	3
+bioluminescence	4
+biomass	4
+biomechanics	2
+biome	4
+biomolecules	4
+biophysics	2
+biorobotics	5
+bios	5
+bird flight	5
+bird migration	5
+bismuth	5
+black hole	3
+black sea	5
+blindness	5
+blood	5
+blowgun	5
+bluetooth	5
+body of water	5
+body fluid	4
+body water	5
+bohrium	5
+boron	5
+boson	3
+breast imaging	5
+british computer society	5
+broadcast engineering	4
+broadcasting	5
+broadcom	5
+bromine	5
+building automation	4
+building insulation material	4
+bulk material handling	5
+buoyancy	4
+burn	5
+cable radio	5
+cable television	5
+cadmium	5
+caesium	5
+calcium	5
+calcium channel blocker	5
+calculus of variation	2
+californium	5
+calorimetry	3
+campanian volcanic arc	5
+can bus	5
+candelabra	5
+candle	4
+canis major overdensity	5
+canonical hour	5
+capacitance	2
+capacitor	3
+carbohydrate	5
+carbon	5
+carbon dioxide	5
+carbon monoxide	5
+carbon nanotube	4
+cardiac electrophysiology	5
+cardiac imaging	5
+caribbean	5
+caribbean sea	5
+carina nebula	4
+carl zeiss ag	4
+cascade volcano	5
+cashless society	5
+cashmere	5
+catalysis	4
+catalyst support	5
+cathode ray tube	5
+cation	4
+celestial coordinate system	4
+celestial mechanic	3
+cellular automaton	3
+center of population	4
+central processing unit	5
+centralized computing	5
+ceramic material	4
+cerdanya	5
+cerium	5
+cern	3
+cetology	4
+chaos	3
+chaos god	4
+chaos theory	3
+character encoding	5
+charcoal	4
+charlie jade	5
+chemical accident	5
+chemical compound	4
+chemical element	4
+chemical kinetics	3
+chemical oceanography	3
+chemical physic	2
+chemical thermodynamics	3
+chemical vapor deposition	5
+chemiluminescence	4
+chernobyl disaster	5
+chernobyl exclusion zone	5
+china meteorological administration	5
+chirality	4
+chloride	5
+chlorine	5
+chlorofluorocarbon	5
+chromism	3
+chromium	5
+chronology	5
+chukchi sea	5
+class of computer	5
+classical mechanic	2
+cleaning	2
+climate change	5
+climatology	3
+clock signal	5
+cloud gaming	5
+cloud robotics	5
+cloud	5
+cluster chemistry	3
+coal	4
+coal mining	5
+coastal geography	5
+cobalt	5
+code lyoko	5
+coding theory	5
+coffee	5
+cogeneration	5
+cold	4
+cold fusion	2
+cold war	5
+collision	2
+colloid	2
+color	5
+color filter array	5
+color space	3
+color vision	5
+coma cluster	4
+combinatorial chemistry	3
+commercial diving	5
+communist nostalgia	5
+compact disc	5
+complex dynamic	3
+computational anatomy	4
+computational electromagnetics	2
+computational fluid dynamic	2
+computational geometry	4
+computational particle physic	2
+computational physic	1
+computational science	5
+computer architecture	4
+computer data storage	5
+computer engineering	3
+computer graphic	5
+computer hardware	4
+computer memory	5
+computer networking	5
+computer network	4
+computer programming	5
+computer science	3
+computer security	5
+computer system	4
+computer vision	5
+computer	5
+computing	5
+concurrency control	5
+condensed matter	3
+condensed matter physic	1
+conformal field theory	3
+conservatism	5
+consumer electronics	4
+contact geometry	3
+continuity of government	5
+continuum mechanic	2
+control engineering	3
+convection	2
+convex analysis	4
+convex hull algorithm	5
+convex optimization	5
+copernican revolution	2
+copernicium	5
+copper	5
+coptic calendar	4
+coral reef	4
+cordite	4
+corrosion	3
+cosina	5
+cosmic background radiation	2
+cosmic dust	4
+cosmic ray	3
+cosmogony	2
+cosmopolitan specie	4
+cotton gin	5
+coventry transport museum	5
+crab nebula	5
+cremation	5
+critical phenomenon	2
+cryobiology	3
+cryogenics	2
+cryonics	4
+cryopreservation	3
+cryotherapy	3
+cryptography	5
+crystal engineering	4
+crystal skull	5
+crystallography	2
+crystal	3
+cultural history	5
+curium	5
+cystic fibrosis	5
+cytopathology	5
+daikin	5
+dark matter	2
+darkness	4
+darmstadtium	5
+data compression	5
+data differencing	5
+data synchronization	5
+data transmission	5
+database theory	5
+davis strait	5
+dawn	5
+day	4
+day	4
+death	5
+deccan plateau	5
+defcon	5
+delta work	5
+demand response	5
+demodulation	5
+density functional theory	3
+depleted uranium	5
+desert	5
+desiccation	4
+destiny	4
+detection theory	4
+diatom	4
+diesel	5
+dieselpunk	5
+differential geometry	2
+differential topology	2
+diffraction	3
+diffusion	4
+digital audio	5
+digital camera	5
+digital circuit	5
+digital electronics	4
+digital imaging	4
+digital labor	5
+digital photography	5
+digital radio	5
+digital revolution	5
+digital signal processing	4
+digital technology	5
+digital television	5
+dirac equation	3
+discworld	5
+dishwashing	3
+distributed generation	5
+district cooling	4
+district heating	5
+divination	5
+dna	5
+dna nanotechnology	4
+doctor who	5
+domain decomposition method	5
+dominican amber	5
+drag	4
+drakengard	5
+drink industry	5
+drinking water	5
+drivetrain	3
+drought	5
+dry cleaning	4
+drying	3
+dubnium	5
+dust	3
+dust bowl	5
+dvd	5
+dynamical system	2
+dysprosium	5
+earth oven	5
+earthquake engineering	4
+earthquake	3
+earthwork	5
+ecological niche	4
+ecological succession	5
+ecology	5
+economic planning	5
+ecosystem	4
+ecozones of canada	5
+einstein family	4
+einsteinium	5
+el bierzo	5
+electric aircraft	5
+electric car	5
+electric charge	3
+electric current	3
+electric drag racing	5
+electric fish	3
+electric heating	5
+electric power	3
+electric power conversion	3
+electric power distribution	4
+electric power generation	4
+electric power quality	4
+electric power transmission	4
+electric vehicle	4
+electrical breakdown	3
+electrical engineering	2
+electrical engineer	3
+electrical equipment	3
+electrical grid	5
+electrical phenomenon	2
+electrical wiring	3
+electricity	2
+electrification	4
+electroanalytical method	4
+electrochemical engineering	3
+electrochemistry	2
+electrode	3
+electrodynamics	2
+electrolysis	3
+electrolyte	3
+electromagnetic compatibility	2
+electromagnetic radiation	3
+electromagnetic spectrum	4
+electromagnetism	1
+electron	3
+electron beam	4
+electron microscopy	4
+electron paramagnetic resonance	4
+electronic design automation	5
+electronic engineering	3
+electronic filter topology	5
+electronic test equipment	3
+electronic warfare	5
+electronic waste	5
+electronics	3
+electronics industry	4
+electrophoresis	5
+electrophysiology	4
+electrostatics	2
+electrotherapy	3
+electroweak theory	2
+elementary particle	2
+element of music	5
+elliptic function	5
+embedded system	4
+emergence	4
+emergent gameplay	5
+emerging technology	5
+emission spectroscopy	3
+endemism	4
+endemism in bird	5
+endoplasmic reticulum	4
+energetics	2
+energoatom	5
+energy transfer	5
+engineering mechanic	3
+engine	4
+enigma machine	5
+enrico fermi	4
+enthalpy	3
+entropy	3
+environmental chemistry	4
+environmental testing	5
+enzyme kinetics	4
+enzyme	5
+equilibrium chemistry	3
+erbium	5
+ergodic theory	3
+ernest rutherford	5
+eschatology	5
+estuary	4
+etymology	5
+eurasian steppe	5
+europium	5
+evening	5
+evolution	5
+experimental physic	1
+exploration of mar	5
+explosive	5
+extinction	5
+extragalactic astronomy	2
+extropianism	5
+falling	4
+family planning	5
+fatty acid	4
+fault tolerance	5
+feces	5
+fermi paradox	3
+fermilab	3
+fermion	2
+fermium	5
+fiber optic	3
+fiberglass	4
+film	5
+final destination	5
+finite element method	4
+fire	4
+fire investigation	5
+fire prevention	5
+fire protection	4
+firearm maintenance	4
+firearm	5
+firefighting	4
+firelighting	4
+firewood	5
+firework	5
+firmware	5
+fishery	5
+fishery law	5
+fishery science	4
+fishing	4
+fishing industry	5
+fission product	3
+flag of oceania	5
+flamethrower	5
+flatulence	4
+flerovium	5
+flexible electronics	4
+flight	3
+flood	5
+flow visualization	4
+fluid dynamic	3
+fluid mechanic	3
+fluid power	4
+fluid static	4
+fluorescence	4
+fluorine	5
+fog	4
+folk culture	5
+force	3
+forecasting	5
+forest	5
+formal method	5
+former constellation	5
+forming process	5
+formula e	5
+fornax cluster	4
+fossil fuel	5
+fouling	4
+four third system	5
+fractal	4
+fracture mechanic	3
+francium	5
+fredholm theory	3
+free radical	5
+freescale semiconductor	5
+fresh water	5
+friction	2
+friction stir welding	3
+frisian island	5
+fuel cell	5
+fuel gas	5
+fullerene	5
+functional calculus	3
+fur	5
+fusion power	2
+fusion reactor	3
+future	3
+future history	5
+futurology	4
+fynbos	5
+gadolinium	5
+galaxy	3
+galaxy in fiction	4
+galilean moon	5
+galileo affair	3
+galileo galilei	3
+gallium	5
+gamma ray	5
+garde manger	5
+gas chromatography	5
+gas law	3
+gas separation	4
+gaseous signaling molecule	4
+gear	3
+gelatin	5
+gemstone	5
+genealogy	5
+general relativity	2
+geochronology	4
+geodesy	3
+geodynamics	3
+geomagnetic reversal	4
+geometric flow	3
+geometrical optic	3
+geometry processing	4
+geomicrobiology	5
+geophysical survey	3
+geophysics	2
+geosocial networking	4
+geotechnical engineering	3
+germanium	5
+gilding	5
+girih	4
+gi file format	5
+glacier	5
+glass	4
+glass art	5
+glass production	4
+gliding	5
+global positioning system	4
+global warming	4
+globalfoundries	5
+glonass	5
+gluon	4
+gold	5
+google earth	4
+gps navigation software	5
+grand unified theory	2
+graphic hardware	5
+gravimetry	4
+gravitational lensing	3
+gravitational wave	3
+gravity	3
+great attractor	4
+great australian bight	5
+greater yellowstone ecosystem	5
+green chemistry	5
+green spain	5
+greenhouse gas emission	5
+greenhouse gas	4
+greenpeace	5
+gregorian calendar	4
+grenade	5
+ground freezing	3
+guiana space centre	5
+hafnium	5
+hall effect	2
+hamiltonian mechanic	2
+handedness	4
+hang gliding	5
+hardware acceleration	5
+hardware virtualization	5
+harpy	5
+harry potter	5
+hassium	5
+healing	5
+heart valve	5
+heat conduction	2
+heat exchanger	3
+heat transfer	2
+heating	4
+heavy equipment	5
+hebrew calendar	5
+helium	5
+herding	5
+heterogeneous computing	5
+hibakusha	4
+hidden variable theory	3
+high dynamic range	3
+highland of iceland	5
+hilbert space	3
+hindu calendar	5
+histochemistry	5
+histology	4
+histopathology	4
+historic preservation	5
+historical geography	5
+historical reenactment	5
+historicity	5
+historiography	5
+history	4
+history by period	5
+history of firefighting	5
+history of fishing	5
+history of glass	5
+history of navigation	5
+history of photography	5
+history of software	5
+history of spaceflight	5
+history of thermodynamics	2
+hitachi	5
+hodge theory	4
+holarctic	5
+holiday	5
+holism	5
+holmium	5
+holographic data storage	4
+holography	3
+holography in fiction	4
+holonomic brain theory	4
+home appliance	4
+home automation	5
+home inspection	5
+home video	5
+homogeneous catalysis	5
+horizontal coordinate system	3
+horsehead nebula	5
+household hardware	5
+hudson bay	5
+human overpopulation	5
+human population planning	5
+human power	5
+human reliability	5
+human spaceflight	5
+human voice	5
+hydraulic engineering	5
+hydraulic machinery	5
+hydraulics	4
+hydrodynamics	4
+hydroelectricity	5
+hydrogen	5
+hydrogen infrastructure	5
+hydrogen storage	5
+hydrogen technology	5
+hydrology	5
+hydropower	5
+hydrostatics	5
+hymen	4
+hypatia	5
+hyperbolic geometry	5
+hyperloop	5
+hypersensitivity pneumonitis	5
+hysteresis	3
+ice	4
+ice trade	4
+ideal gas	2
+image compression	5
+image processing	4
+image segmentation	5
+image sensor	4
+image stabilization	4
+imaging	3
+immunohistochemistry	5
+impact assessment	5
+implementation	5
+incandescent light bulb	5
+incheon airport maglev	4
+incident management	5
+incineration	4
+india meteorological department	5
+indian ocean	4
+indium	5
+indomalaya ecozone	5
+indoor positioning system	4
+induction heating	3
+infectious disease	5
+information geometry	3
+information technology	5
+information theory	4
+infrared	5
+infrared spectroscopy	5
+integrated circuit	4
+integration platform	5
+intel	5
+intelligence	5
+intention	5
+interaction	5
+interactive television	5
+interference	4
+interferometry	4
+intergalactic travel	4
+internal combustion engine	5
+international electrotechnical commission	4
+international maritime organization	5
+international seabed authority	5
+international water	5
+international whaling commission	5
+internet access	5
+internet culture	5
+internet television	5
+interoperability	4
+interpolation	5
+interstellar communication	5
+interstellar travel	5
+interventional radiology	5
+interworld	5
+introduced specie	4
+invariant theory	4
+invasive specie	5
+invisibility	3
+iodine	5
+ion channel	3
+ionization	3
+ionizing radiation	5
+ionosphere	2
+ion	3
+iridium	5
+iron	5
+iron age	5
+ironing	4
+ironmongery	5
+isaac newton	3
+island game	5
+island	4
+isotope separation	3
+isotope	2
+isotope of actinium	3
+isotope of aluminium	3
+isotope of americium	3
+isotope of antimony	3
+isotope of argon	3
+isotope of arsenic	3
+isotope of astatine	3
+isotope of barium	3
+isotope of beryllium	3
+isotope of bismuth	3
+isotope of boron	3
+isotope of bromine	3
+isotope of cadmium	3
+isotope of caesium	3
+isotope of calcium	3
+isotope of californium	3
+isotope of carbon	3
+isotope of cerium	3
+isotope of chlorine	3
+isotope of chromium	3
+isotope of cobalt	3
+isotope of copper	3
+isotope of curium	3
+isotope of europium	3
+isotope of fluorine	3
+isotope of francium	3
+isotope of gadolinium	3
+isotope of gallium	3
+isotope of germanium	3
+isotope of gold	3
+isotope of hafnium	3
+isotope of helium	3
+isotope of hydrogen	3
+isotope of indium	3
+isotope of iodine	3
+isotope of iridium	3
+isotope of iron	3
+isotope of krypton	3
+isotope of lanthanum	3
+isotope of lead	3
+isotope of lithium	3
+isotope of lutetium	3
+isotope of magnesium	3
+isotope of manganese	3
+isotope of mercury	3
+isotope of molybdenum	3
+isotope of neodymium	3
+isotope of neon	3
+isotope of neptunium	3
+isotope of nickel	3
+isotope of niobium	3
+isotope of nitrogen	3
+isotope of oganesson	3
+isotope of osmium	3
+isotope of oxygen	3
+isotope of palladium	3
+isotope of phosphorus	3
+isotope of platinum	3
+isotope of plutonium	3
+isotope of polonium	3
+isotope of potassium	3
+isotope of protactinium	3
+isotope of radium	3
+isotope of radon	3
+isotope of rhenium	3
+isotope of rubidium	3
+isotope of ruthenium	3
+isotope of samarium	3
+isotope of scandium	3
+isotope of selenium	3
+isotope of silicon	3
+isotope of silver	3
+isotope of sodium	3
+isotope of strontium	3
+isotope of sulfur	3
+isotope of tantalum	3
+isotope of technetium	3
+isotope of tellurium	3
+isotope of thallium	3
+isotope of thorium	3
+isotope of tin	3
+isotope of titanium	3
+isotope of tungsten	3
+isotope of uranium	3
+isotope of vanadium	3
+isotope of xenon	3
+isotope of ytterbium	3
+isotope of yttrium	3
+isotope of zinc	3
+isotope of zirconium	3
+iter	5
+japan meteorological agency	5
+johannes kepler	3
+johnson control	5
+josephson effect	3
+julian calendar	4
+kara sea	5
+kinematics	2
+kinetics	4
+kingdom heart	4
+kitchenware	5
+knot theory	5
+knowledge sharing	5
+konstantin tsiolkovsky	5
+krypton	5
+labrador sea	5
+lagrangian mechanic	3
+landsat program	5
+language of flower	5
+language of oceania	5
+laniakea supercluster	4
+lanthanum	5
+large hadron collider	3
+laser application	5
+laser medicine	3
+laser science	4
+laserdisc	5
+laser	4
+lasik	4
+last glacial maximum	5
+last glacial period	5
+laundry	3
+lawrencium	5
+law of robotics	5
+law of thermodynamics	2
+lazarev sea	5
+lead	5
+legacy	5
+lepton	3
+leviathan	5
+levitation	3
+lg electronics	5
+life extension	5
+lifting equipment	4
+light	3
+light art	5
+light pollution	5
+light therapy	4
+lighting	4
+lightning	3
+linde plc	5
+linear motion	3
+linkedin	5
+lipid	5
+liquefied natural gas	5
+liquid helium	3
+list of drink	5
+list of earthquake	4
+list of ecoregions	5
+list of galaxy	4
+list of island	5
+list of nebula	4
+list of rocket	5
+lithium	5
+lithography	5
+lithosphere	4
+livermorium	5
+local bubble	4
+local group	4
+local interstellar cloud	5
+local loop	5
+local sheet	3
+long now foundation	5
+loop quantum gravity	4
+lubricant	3
+lubrication	5
+luminescence	3
+lutetium	5
+machine gun	5
+machine tool	5
+machine vision	5
+machinery	3
+machine	3
+magnesium	5
+magnetic levitation	3
+magnetic resonance imaging	3
+magnetism	2
+magnetohydrodynamics	2
+magnetoreception	3
+magnetoresistance	3
+magnetostatics	3
+maintenance	3
+malesia	4
+managed retreat	4
+manganese	5
+mangrove	5
+manifold	3
+map projection	4
+marine art	4
+marine biology	3
+marine conservation	4
+marine electronics	4
+marine energy	4
+marine engineering	5
+marine fungi	5
+marine geology	3
+marine salvage	5
+maritime archaeology	5
+maritime history	4
+maritime transport	4
+material science	2
+mathematical morphology	5
+mathematical optimization	5
+mathematical physic	2
+meade instrument	5
+mean	4
+mechanical engineering	2
+mechanic	1
+mechanism design	5
+mediatek	5
+medical imaging	3
+medical physic	2
+medical ultrasonography	3
+mediterranean	5
+mediterranean sea	5
+megami tensei	5
+megastructures	5
+megatsunami	4
+meitnerium	5
+memorabilia	5
+memory	4
+mendelevium	5
+merchant navy	5
+mesh generation	4
+mesh networking	5
+mesoamerica	5
+mesoporous material	5
+mesoscale meteorology	4
+mesoscopic physic	2
+met office	5
+metal theft	5
+metallurgy	3
+metal	4
+metalworking	5
+metamaterials	3
+meteorology	2
+methane	5
+microbiology	4
+microblogging	5
+microfluidics	4
+microorganism	5
+microprocessor	5
+microscale meteorology	4
+microscopy	3
+microtechnology	3
+microwave chemistry	5
+microwave transmission	5
+military communication	4
+military computer	5
+military intelligence	5
+milk	5
+milo	5
+mime	5
+mineral	4
+mining	5
+minkowski spacetime	4
+mips technology	5
+missile	5
+mnemonic	5
+mobile phone	5
+mobile technology	5
+mobile television	5
+modern physic	1
+molecular biophysics	3
+molecular dynamic	2
+molecular electronics	3
+molecular geometry	4
+molecular modelling	3
+molecular physic	2
+molecular vibration	3
+molecule	3
+molybdenum	5
+monomer	4
+morning	5
+morse code	5
+morse theory	3
+moscovium	5
+motherboard	4
+motion control	5
+mpeg	5
+msx	5
+multiphase flow	4
+multitrack recording	5
+multiverse	2
+museo galileo	4
+music	4
+music and politics	5
+music education	5
+music history	5
+music in space	5
+music industry	5
+music production	5
+music psychology	5
+music technology	5
+music theory	5
+music visualization	5
+musical composition	5
+musical instrument	5
+musical terminology	5
+musicology	5
+nanoelectronics	4
+nanomaterials	4
+nanomedicine	4
+nanoparticles	3
+nanotechnology	3
+nanotechnology in fiction	4
+nanowire	5
+national weather service	5
+natural gas	4
+nautical fiction	5
+naval warfare	5
+nearctic ecozone	5
+nebula	3
+nebula in fiction	4
+neodymium	5
+neon	5
+neon lighting	4
+neotropic ecozone	4
+neptunium	5
+network architecture	5
+network performance	5
+neuroimaging	5
+neutrino astronomy	5
+neutrino	4
+neutron	3
+neutron scattering	3
+neutron star	4
+nickel	5
+nicolaus copernicus	3
+night	5
+nihonium	5
+niobium	5
+nitrogen	4
+nitrogen cycle	5
+nobelium	5
+noble gas	4
+noise	4
+noise pollution	5
+noise reduction	5
+nondestructive testing	4
+nonimaging optic	3
+nonlinear optic	3
+norma cluster	4
+norwegian meteorological institute	5
+nostalgia	4
+nostradamus	5
+nuclear artillery	5
+nuclear chemistry	2
+nuclear energy	2
+nuclear fallout	3
+nuclear fusion	2
+nuclear magnetic resonance	2
+nuclear medicine	3
+nuclear physic	1
+nuclear power	3
+nuclear proliferation	4
+nuclear propulsion	3
+nuclear reactor	3
+nuclear regulatory commission	5
+nuclear reprocessing	3
+nuclear strategy	5
+nuclear technology	2
+nuclear terrorism	3
+nuclear warfare	4
+nuclear weapon design	4
+nuclear weapon	3
+nuclear weapon testing	4
+nucleosynthesis	2
+nude beach	5
+nuremberg trial	5
+nxp semiconductor	5
+nyaya	3
+observational cosmology	2
+ocean exploration	3
+oceania	5
+oceanography	2
+ocean	3
+odin	5
+oganesson	5
+oil lamp	5
+oil shale	4
+olympus corporation	4
+onium	3
+operating system	5
+operator theory	2
+ophthalmology	5
+optical coherence tomography	3
+optical disc authoring	5
+optical fiber	4
+optical mineralogy	3
+optical phenomenon	4
+optical spectrum	5
+optical transport network	5
+optic	2
+optimal control	3
+optoelectronics	4
+optometry	5
+oral history	5
+orbital resonance	4
+organic compound	5
+organic electronics	4
+origin of life	5
+orogeny	5
+orthogonal polynomial	5
+oscillation	2
+osmium	5
+oxygen	5
+ozone depletion	4
+pacific ocean	4
+packaging machinery	4
+packing problem	5
+palearctic ecozone	4
+paleoceanography	3
+paleoclimatology	4
+paleomagnetism	4
+palladium	5
+palynology	5
+pampas	5
+panavision	5
+parachuting	5
+paragliding	5
+parallax	4
+parker solar probe	4
+particle physic	1
+particle statistic	3
+particulate	3
+passive fire protection	5
+past	3
+pattern formation	3
+pattern matching	5
+pauli exclusion principle	2
+peaceful nuclear explosion	4
+peat	4
+peer learning	5
+peer review	5
+peer support	5
+pellucidar	5
+pendulum	4
+percolation theory	3
+periodic table	5
+perpetual motion	2
+perseus cluster	4
+personal computing	5
+perturbation theory	3
+peter debye	3
+peter madsen	5
+petroleum	4
+petroleum geology	5
+petroleum industry	5
+petroleum politics	5
+petroleum product	5
+phase transition	3
+philosophy of history	5
+philosophy of mind	5
+philosophy of physic	1
+philosophy of time	2
+phospholipid	4
+phosphorus	5
+photochemistry	4
+photographic lighting	5
+photographic process	4
+photograph	5
+photography	4
+photonics	3
+photon	4
+photosynthesis	5
+photovoltaics	5
+physical chemistry	2
+physical computing	5
+physical cosmology	1
+physical oceanography	2
+physical optic	3
+physical organic chemistry	3
+phytochemical	5
+phytogeography	4
+pigment	5
+pipeline transport	5
+piping	3
+piracy	5
+pistonless rotary engine	5
+planning	4
+plasma diagnostics	2
+plasma physic	1
+plastic welding	4
+plastic	4
+plastic industry	5
+plate tectonics	4
+platinum	5
+plesetsk cosmodrome	5
+plumbing	5
+plutonium	5
+pneumatics	5
+polonium	5
+polymer chemistry	3
+polymer physic	3
+polymer	4
+polynesian culture	5
+polynesian navigation	4
+polyphenols	5
+polysaccharide	5
+porcelain	5
+positron emission tomography	4
+posttranslational modification	5
+potassium	5
+potential theory	3
+power control	5
+power electronics	4
+power engineering	3
+power machine	5
+power ranger rpm	5
+praseodymium	5
+precession	4
+precious metal	5
+precipitation	5
+precursor of film	4
+prediction	4
+prevention	5
+private spaceflight	5
+privateering	4
+privateer	5
+process engineering	4
+process safety	5
+production planning	5
+programming language theory	5
+promethium	5
+prophecy	5
+protactinium	5
+protein folding	5
+protein structure	4
+protein targeting	4
+protein	5
+proton	3
+proton pump inhibitor	5
+pseudohistory	5
+psychoacoustics	2
+psychophysics	1
+psychrometrics	3
+pulsed power	5
+pupil	5
+qualcomm	5
+quantum biology	3
+quantum chemistry	2
+quantum chromodynamics	3
+quantum complexity theory	4
+quantum computing	4
+quantum cryptography	5
+quantum dot	5
+quantum electrodynamics	3
+quantum electronics	2
+quantum field theory	2
+quantum gravity	3
+quantum information science	3
+quantum information theory	4
+quantum mechanic	2
+quantum monte carlo	3
+quantum mysticism	3
+quantum optic	3
+quantum programming	4
+quark matter	2
+quark	3
+quartz	4
+quasar	5
+radar	5
+radiation	4
+radiation protection	4
+radiation therapy	3
+radio	5
+radio communication	4
+radio resource management	5
+radio spectrum	5
+radioactive contamination	4
+radioactive quackery	3
+radioactive waste	3
+radioactivity	2
+radiobiology	3
+radiocarbon dating	4
+radiochemistry	3
+radiography	5
+radiology	4
+radiometric dating	3
+radiometry	4
+radium	5
+radon	5
+rahxephon	5
+rainbow	5
+raman scattering	4
+raman spectroscopy	5
+random number generation	4
+reboot	5
+recreational fishing	5
+reductionism	5
+reforestation	5
+refraction	4
+refractory metal	4
+refrigerant	4
+reliability engineering	4
+religion in oceania	5
+remote control	5
+remote sensing	4
+remote sensing software	5
+renormalization group	3
+reprap project	4
+reputation management	5
+resonance	3
+retro style	5
+retrofuturism	4
+rhenium	5
+rheology	3
+rhodium	5
+riemannian geometry	3
+riken	5
+rip van winkle	5
+riparian zone	5
+rms titanic	5
+roadkill	5
+robot control	5
+robot kinematics	3
+robot locomotion	3
+robotic art	5
+robotics	4
+robot	4
+rock magnetism	4
+rock mechanic	3
+rocket artillery	4
+rock	5
+roentgenium	5
+rosatom	5
+rotation	3
+rotational symmetry	3
+rubidium	5
+rural electrification	5
+ruthenium	5
+rutherfordium	5
+saccade	5
+saliva	5
+samarium	5
+sampling	5
+sandisk	5
+santorini	5
+satellite imagery	5
+satellite internet access	5
+satellite radio	5
+satellite television	5
+scandium	5
+scanning probe microscopy	4
+scattering	2
+scattering theory	3
+science of photography	3
+scientific diving	5
+scrubber	5
+sea ice	3
+sea in culture	4
+sea level	3
+sea life centre	5
+sea of okhotsk	5
+sea shanty	5
+seaborgium	5
+seafood	4
+seagrass	5
+seal hunting	4
+seasteading	5
+secretion	5
+seismic intensity scale	4
+seismic magnitude scale	4
+seismology	2
+selenium	5
+semen	5
+semiconductor device fabrication	4
+semiconductor device	3
+semiconductor	2
+sensor	5
+sexual dimorphism	4
+shapley supercluster	4
+shin megami tensei	5
+ship collision	3
+ship management	5
+ship registration	5
+shipbuilding	5
+ship	5
+shoe polish	4
+shooting sport	5
+shot peening	4
+sigma corporation	5
+signage	5
+signal processing	3
+signal intelligence	5
+silence	4
+silent film	5
+silent hill	5
+silicon	5
+silicon photonics	4
+silver	5
+simple machine	4
+singular value decomposition	3
+singularitarianism	5
+singularity theory	3
+slider	5
+slot machine	5
+smart device	5
+smart tv	5
+smelting	5
+smog	4
+smoke	4
+smoking	5
+snow	5
+social bookmarking	5
+social network	3
+sociophysics	2
+sodium	4
+soft computing	5
+soft matter	2
+software	4
+software architecture	5
+software design	5
+software development	5
+software distribution	5
+software engineering	4
+software industry	5
+software maintenance	4
+software quality	5
+software requirement	5
+software testing	5
+soil	5
+soil classification	5
+soil contamination	5
+soil mechanic	2
+soil physic	2
+solar architecture	4
+solar cell	4
+solar decathlon	5
+solar energy	3
+solar hijri calendar	4
+solar phenomenon	3
+solar power	4
+solar thermal energy	4
+solid mechanic	2
+soliton	3
+solution	5
+solvent	5
+sonar	5
+sony	5
+sound	3
+sound effect	5
+sound recording	4
+sound reinforcement system	4
+soundscape ecology	4
+south pacific	5
+southern ocean	4
+space colonization	5
+space debris	5
+space elevator	5
+space law	5
+space physic	2
+space policy	5
+space transport	5
+space weather	3
+spacecraft	5
+spacecraft propulsion	4
+spaceflight	4
+spaceshiptwo	5
+special function	4
+special relativity	3
+speckle imaging	5
+spectral theory	3
+spectroscopy	3
+speech processing	5
+speech recognition	5
+spike and suzy	5
+spintronics	2
+sponge diving	5
+stability theory	3
+stage lighting	5
+staining	4
+standard model	2
+star formation	4
+star trek	5
+star war	5
+stargate	4
+static	2
+statistical distance	4
+statistical mechanic	2
+statistical physic	3
+statistical signal processing	4
+steam power	5
+steampunk	5
+steel	5
+steelmaking	5
+stellar dynamic	3
+stellar evolution	3
+stephen hawking	3
+stereophonic sound	4
+stereoscopy	5
+storm	5
+storm chasing	5
+strangeness production	2
+strategy	5
+string theory	2
+strontium	5
+strontium dog	5
+structural analysis	3
+structural bioinformatics	4
+structural biology	3
+subatomic particle	2
+subduction	4
+sulfur	5
+sun	2
+sun tanning	3
+superalloys	5
+superconductivity	2
+superconductors	3
+supermassive black hole	4
+supernova	5
+supersonic aircraft	4
+supersymmetry	3
+superzoom	5
+supramolecular chemistry	4
+surface science	1
+surfactant	3
+surveying	4
+swamp	5
+symbolic dynamic	3
+symbol	5
+symmetry	2
+symplectic geometry	3
+synchronization	4
+synchronous optical networking	5
+synchrotron radiation	3
+synthetic aperture radar	5
+synthetic resin	5
+system ecology	5
+system science	5
+system thinking	5
+tamron	5
+tantalum	5
+tarantula nebula	5
+tau ceti	5
+technetium	5
+technology assessment	5
+tectonic plate	5
+tektronix	5
+telecommunication	4
+telecommunication engineering	3
+telecommunication equipment	5
+telecommuting	5
+telegraphy	5
+telematics	5
+telemetry	5
+telephony	5
+teleportation	3
+teleportation in fiction	4
+telepresence	5
+teletext	5
+television	5
+tellurium	5
+temperate coniferous forest	5
+temperature	3
+temperature control	4
+temporal logic	3
+tennessine	5
+tensor	2
+terbium	5
+terracotta	5
+terrestrial locomotion	4
+tessellation	3
+thallium	5
+the dark tower	4
+the invisible man	5
+the long earth	5
+the stand	5
+the time machine	5
+the wicked year	5
+theoretical computer science	5
+theoretical physic	1
+theory of gravitation	2
+theory of computation	5
+theory of relativity	2
+thermobaric weapon	5
+thermochemistry	3
+thermochromism	3
+thermodynamic equation	2
+thermodynamic free energy	3
+thermodynamics	1
+thermoregulation	3
+thomas newcomen	5
+thor	5
+thorium	5
+thulium	5
+tiamat	5
+tidal power	4
+tide	3
+tiktok	5
+time loop	4
+time management	5
+time travel	2
+timecop	5
+timor sea	5
+tin	5
+tire	5
+titanium	5
+tokina	5
+tomography	4
+topography	5
+tornado	5
+tornado	5
+tornadogenesis	5
+torque	4
+torsional vibration	3
+tradition	5
+traditionalist school	5
+tradition	5
+transatlantic flight	4
+transatlantic relation	5
+transhumance	5
+transhumanism	5
+transistor	4
+transport phenomenon	3
+trauma surgery	4
+traumatology	3
+triangulum galaxy	5
+tribology	2
+tropical andes	5
+tropical cyclone	4
+tropical rainforest	5
+tsunami	4
+tsunami	4
+tundra	5
+tungsten	5
+tunnel construction	5
+turbomachinery	3
+turbulence	4
+tycho brahe	3
+type of earthquake	4
+ultrasound	4
+ultraviolet radiation	5
+unconventional oil	5
+uninterruptible power supply	5
+unit of information	5
+uranium	4
+uranium mining	5
+urban planning	5
+urine	5
+vacuum	4
+vacuum tube	4
+vanadium	5
+variance reduction	3
+vehicle dynamic	4
+velocity	3
+vending machine	5
+ventilation	4
+version control	5
+vertical position	5
+vessel traffic service	5
+video	4
+video art	5
+video compression	5
+video gaming	5
+video on demand	5
+video processing	5
+video signal	5
+video surveillance	5
+videotape	5
+videotelephony	5
+virgo cluster	4
+virgo supercluster	4
+virology	5
+viscosity	4
+visibility	4
+vision	4
+visual art	5
+visual perception	5
+visual system	5
+vitreous enamel	5
+volcano	5
+voltage	2
+voltage regulation	3
+vomiting	5
+wabtec	5
+wafer bonding	5
+walking	5
+watch	5
+water	4
+water ice	5
+water management	5
+water power	5
+water scarcity	5
+water torture	5
+waterborne disease	5
+wave power	5
+wave	3
+wave in plasma	2
+weather	5
+weather forecasting	5
+weather modification	4
+web archiving	4
+web development	5
+weightlessness	4
+welding	3
+well logging	5
+westinghouse broadcasting	5
+westinghouse electric company	4
+wetland	5
+whale conservation	5
+whaling	4
+white phosphorus	5
+white sea	5
+wiki software	4
+wikileaks	5
+wikimedia	5
+wikimedia foundation	5
+wind	5
+wind power	5
+wind turbine	5
+window	5
+winter	5
+wire	5
+wireless	4
+wireless energy transfer	5
+wireless networking	5
+woman in firefighting	5
+wood fuel	4
+wool	5
+world meteorological organization	5
+wormhole in fiction	3
+writing system	5
+xenon	5
+yellow sea	5
+ytterbium	5
+yttrium	5
+zambezian region	5
+zealandia	5
+zeus	5
+zinc	5
+zirconium	5

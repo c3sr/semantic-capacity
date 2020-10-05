@@ -1,0 +1,4 @@
+networkx==2.3
+Cython==0.29.13
+numpy==1.17.2
+torch==1.5.1

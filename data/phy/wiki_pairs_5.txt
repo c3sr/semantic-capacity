@@ -1,0 +1,1393 @@
+gravity	falling
+surveying	home inspection
+physical cosmology	anthropic principle
+chemical element	berkelium
+fishing	fishing industry
+chemical element	cerium
+chemical element	erbium
+electronic engineering	computer hardware
+gravity	gravimetry
+imaging	image processing
+video	film
+nanotechnology	dna nanotechnology
+solar energy	solar power
+biogeography	ecological niche
+telecommunication	data transmission
+nuclear physic	nuclear chemistry
+astrophysics	gravitational lensing
+alloy	refractory metal
+biophysics	quantum biology
+magnetism	magnetoresistance
+levitation	magnetic levitation
+nuclear technology	nuclear medicine
+gravity	gravitational wave
+telecommunication engineering	military communication
+radiation	electromagnetic radiation
+environmental chemistry	green chemistry
+general relativity	gravitational wave
+consumer electronics	compact disc
+environmental chemistry	biogeochemistry
+theoretical physic	quantum field theory
+welding	arc welding
+continuum mechanic	solid mechanic
+marine biology	fishery science
+global warming	climate change
+fluid power	hydraulics
+light	photochemistry
+mechanic	quantum mechanic
+electronic engineering	analog circuit
+solar energy	solar thermal energy
+physical optic	optical phenomenon
+nonlinear optic	holographic data storage
+photography	photograph
+microbiology	secretion
+noble gas	helium
+chemical element	cobalt
+darkness	night
+quantum mechanic	teleportation
+spaceflight	space debris
+biomechanics	traumatology
+soft matter	colloid
+continuum mechanic	acoustic
+sound recording	audio engineering
+semiconductor	semiconductor device
+biogeochemistry	biogeochemical cycle
+remote sensing	telepresence
+physical chemistry	ion
+computer network	internet culture
+video	video compression
+differential geometry	information geometry
+material science	combinatorial chemistry
+geotechnical engineering	soil mechanic
+classical mechanic	rotation
+subatomic particle	boson
+thermodynamics	heat conduction
+integrated circuit	image sensor
+machine	engine
+critical phenomenon	phase transition
+microscopy	scanning probe microscopy
+histology	histochemistry
+vision	saccade
+flight	spaceflight
+signal processing	audio electronics
+machine	simple machine
+critical phenomenon	renormalization group
+computer hardware	hardware virtualization
+chemical element	nickel
+force	torque
+tessellation	mesh generation
+vision	color
+futurology	emerging technology
+biomass	wood fuel
+particle physic	pauli exclusion principle
+thermodynamics	heat transfer
+nanomaterials	nanoparticles
+chemical element	tennessine
+lithosphere	soil
+atmosphere	weather
+condensed matter physic	quantum electronics
+geodesy	surveying
+nuclear physic	nuclear fusion
+mechanical engineering	structural analysis
+imaging	image stabilization
+spintronics	pauli exclusion principle
+lithosphere	tectonic plate
+ecosystem	tropical rainforest
+mechanic	kinematics
+photon	photonics
+image processing	medical imaging
+mechanic	soil mechanic
+dynamical system	oscillation
+quantum chromodynamics	quark
+tide	tidal power
+dynamical system	thermodynamics
+classical mechanic	lagrangian mechanic
+electronics	integrated circuit
+imaging	video
+mechanical engineering	machinery
+biophysics	nuclear magnetic resonance
+mineral	asbestos
+nanotechnology	scanning probe microscopy
+semiconductor device	transistor
+atmospheric thermodynamics	temperature
+ceramic material	terracotta
+tornado	tornadogenesis
+extragalactic astronomy	galaxy
+electromagnetism	electrochemistry
+rotation	angle
+friction	tribology
+sound	supersonic aircraft
+ocean	indian ocean
+magnetism	magnetoreception
+futurology	space colonization
+image processing	mathematical morphology
+acoustic	sound
+physical cosmology	cosmogony
+elementary particle	quark
+electronics	interference
+electronic engineering	flexible electronics
+process engineering	forming process
+microbiology	geomicrobiology
+special function	orthogonal polynomial
+experimental physic	accelerator physic
+maintenance	reliability engineering
+physical chemistry	electrochemistry
+military communication	cryptography
+planning	production planning
+radiation	cosmic ray
+chemical element	tin
+quantum mechanic	mesoscopic physic
+futurology	transhumanism
+chaos	chaos theory
+dynamical system	hamiltonian mechanic
+chemical element	titanium
+software engineering	software development
+electromagnetism	electromagnetic compatibility
+water	water power
+oceanography	ocean exploration
+particulate	smoke
+geodesy	geodynamics
+theoretical physic	mathematical physic
+theoretical physic	symmetry
+microscopy	electron microscopy
+radiation	ionizing radiation
+crystal	crystal engineering
+chemical element	selenium
+laser	laser application
+electronics	electronic engineering
+cryogenics	cryotherapy
+polymer chemistry	fiberglass
+chemical compound	organic compound
+sound recording	sampling
+dynamical system	ergodic theory
+electronic engineering	power electronics
+digital signal processing	speech processing
+video	video surveillance
+introduced specie	invasive specie
+chemical element	bohrium
+cryogenics	superconductivity
+reliability engineering	human reliability
+symmetry	asymmetry
+chemical element	zirconium
+quantum field theory	quantum chromodynamics
+ceramic material	porcelain
+plasma physic	ionosphere
+particle physic	astroparticle physic
+condensed matter physic	superconductivity
+embedded system	smart device
+process engineering	process safety
+physical chemistry	chemical thermodynamics
+structural biology	protein structure
+biophysics	biomechanics
+power engineering	electric power conversion
+day	day
+physical chemistry	polymer chemistry
+computer architecture	heterogeneous computing
+meteorology	atmospheric thermodynamics
+lithosphere	glacier
+particle physic	electroweak theory
+metal	metallurgy
+electromagnetic spectrum	light
+heat transfer	fire
+physical optic	diffraction
+geophysics	tide
+ice	water ice
+special relativity	aether theory
+electrostatics	electromagnetic compatibility
+software engineering	formal method
+chemical element	protactinium
+chemical element	chromium
+chemical element	oganesson
+electromagnetism	electrodynamics
+embedded system	robotics
+temperature	cold
+fluid mechanic	fluid static
+wireless	radar
+copernican revolution	nicolaus copernicus
+electronics industry	power electronics
+fluid dynamic	hydrodynamics
+reliability engineering	environmental testing
+marine energy	tidal power
+metal	aluminium
+friction	friction stir welding
+electromagnetic radiation	electromagnetic spectrum
+physical chemistry	molecular vibration
+computer architecture	operating system
+physical cosmology	dark matter
+electrical engineering	electrical wiring
+computer system	hardware acceleration
+capacitance	capacitor
+biomolecules	antigen
+body fluid	milk
+home appliance	ironing
+planning	economic planning
+nanotechnology	supramolecular chemistry
+biogeography	ecosystem
+robotics	physical computing
+general relativity	black hole
+phase transition	cryobiology
+spaceflight	spacecraft
+geophysics	geodynamics
+geophysics	radiometric dating
+chemical element	calcium
+metallurgy	corrosion
+chemical element	neptunium
+radioactivity	nuclear terrorism
+nanoelectronics	molecular electronics
+electronics	optoelectronics
+noble gas	argon
+chemical element	scandium
+simple machine	gear
+information theory	coding theory
+neutron	neutron star
+chemical element	einsteinium
+nuclear chemistry	fission product
+chemical element	osmium
+nuclear physic	nuclear technology
+electronics	organic electronics
+electricity	electrode
+telecommunication engineering	interoperability
+chemical element	copernicium
+animal locomotion	aquatic locomotion
+amber	dominican amber
+electrical engineering	signal processing
+telecommunication engineering	synchronization
+chemical element	hassium
+laser	laser science
+velocity	acceleration
+electronics	nanoelectronics
+nuclear physic	subatomic particle
+quantum field theory	supersymmetry
+spectroscopy	astronomical spectroscopy
+fluid dynamic	magnetohydrodynamics
+theoretical physic	string theory
+chemical compound	acid
+fermion	dirac equation
+chemical element	dubnium
+flight	aerospace
+image processing	color
+audio engineering	stereophonic sound
+classical mechanic	celestial mechanic
+greenhouse gas	carbon dioxide
+wireless	wireless energy transfer
+social network	geosocial networking
+chemical compound	refrigerant
+electronics	quantum electronics
+tomography	optical coherence tomography
+fluid dynamic	aerodynamics
+lepton	electron
+material science	condensed matter
+electrical phenomenon	hall effect
+astrophysics	black hole
+electrical engineering	electrochemical engineering
+particle physic	antimatter
+virgo supercluster	great attractor
+ocean	pacific ocean
+hydraulics	delta work
+chemical element	lithium
+electrical engineering	electromagnetic compatibility
+physical chemistry	quantum chemistry
+force	electroweak theory
+microscopy	histology
+pacific ocean	oceania
+chemical element	yttrium
+photochemistry	photosynthesis
+mechanic	biomechanics
+actuator	motion control
+gravity	weightlessness
+computer engineering	software engineering
+biogeography	endemism
+crystal	ceramic material
+semiconductor device	solar cell
+theoretical physic	tensor
+past	memory
+astroparticle physic	dark matter
+wireless	mobile technology
+physical optic	interference
+chemical element	technetium
+quantum field theory	electroweak theory
+electric current	josephson effect
+chemical element	potassium
+continuum mechanic	fluid dynamic
+statistical mechanic	percolation theory
+flight	ballistics
+biophysics	ion channel
+software engineering	software maintenance
+electric power distribution	wireless energy transfer
+chemical element	aluminium
+synchronization	data synchronization
+military communication	signal intelligence
+asymmetry	chirality
+nuclear technology	nuclear reprocessing
+photonics	silicon photonics
+electromagnetism	superconductivity
+holography	holographic data storage
+software	software distribution
+petroleum	unconventional oil
+radioactivity	radiobiology
+structural biology	biomolecules
+luminescence	fluorescence
+particle physic	grand unified theory
+terrestrial locomotion	walking
+wireless	wireless networking
+differential geometry	geometric flow
+nanotechnology	nanomaterials
+electromagnetic radiation	cosmic background radiation
+chemical element	carbon
+nanotechnology	silicon photonics
+nuclear weapon testing	nuclear fallout
+classical mechanic	continuum mechanic
+sun	solar energy
+quantum information science	quantum programming
+integrated circuit	microprocessor
+asymmetry	entropy
+general relativity	gravitational lensing
+climatology	paleoclimatology
+statistical mechanic	renormalization group
+particle physic	quantum field theory
+ocean	marine energy
+atomic physic	scattering
+water	hydrology
+nuclear chemistry	isotope
+refrigerant	water
+crystal	mineral
+polymer chemistry	polymer physic
+psychophysics	psychoacoustics
+electronics	avionics
+local group	canis major overdensity
+seismology	geotechnical engineering
+quantum field theory	critical phenomenon
+surveying	topography
+telecommunication	telegraphy
+light	photon
+firefighting	fire prevention
+metal	steel
+chemical element	ruthenium
+natural gas	petroleum industry
+storm	lightning
+chirality	handedness
+fluid mechanic	buoyancy
+emergence	reductionism
+digital electronics	electronic design automation
+electromagnetic radiation	radiometry
+machine	machinery
+computer architecture	network architecture
+nebula	cosmic dust
+mechanic	oscillation
+chemical element	rhodium
+greenhouse gas	methane
+wind	tornado
+quantum mechanic	density functional theory
+ocean	arctic ocean
+transport phenomenon	diffusion
+nuclear weapon	nuclear weapon testing
+vision	visual perception
+digital signal processing	geometry processing
+military communication	military intelligence
+asymmetry	sexual dimorphism
+telecommunication engineering	radiometry
+consumer electronics	dvd
+physical cosmology	multiverse
+mechanic	continuum mechanic
+luminescence	chemiluminescence
+fluid mechanic	viscosity
+water	desiccation
+electricity	electronics
+mechanic	static
+engine	internal combustion engine
+nuclear weapon	nuclear proliferation
+sound recording	noise reduction
+thermodynamics	energetics
+nuclear physic	scattering
+music	musical instrument
+embedded system	robot
+galaxy	supermassive black hole
+molecular physic	luminescence
+control engineering	automation
+vision	visual art
+chaos theory	fractal
+greenhouse gas	greenhouse gas emission
+futurology	technology assessment
+nebula	carina nebula
+software engineering	version control
+chemical element	boron
+microbiology	infectious disease
+quantum mechanic	perturbation theory
+celestial mechanic	dark matter
+robotics	robot control
+chemical element	americium
+chemical element	oxygen
+futurology	megastructures
+chemical element	samarium
+plasma physic	sun
+convex analysis	convex optimization
+differential geometry	symplectic geometry
+vacuum	vacuum tube
+histopathology	staining
+chemical kinetics	catalysis
+maintenance	software maintenance
+virgo supercluster	virgo cluster
+nuclear magnetic resonance	magnetic resonance imaging
+great attractor	norma cluster
+maintenance	aircraft maintenance
+memory	intelligence
+photography	digital photography
+quantum mechanic	quantum biology
+chemical compound	pigment
+chemical element	polonium
+theoretical physic	dark matter
+vision	ophthalmology
+chemical element	indium
+local bubble	local interstellar cloud
+futurology	digital revolution
+cleaning	dust
+histology	immunohistochemistry
+quantum computing	quantum programming
+vision	imaging
+solid mechanic	fracture mechanic
+condensed matter physic	scattering
+theoretical physic	hamiltonian mechanic
+telecommunication	telecommunication engineering
+nanoelectronics	nanowire
+tradition	tradition
+spectroscopy	diffraction
+spaceflight	space law
+continuum mechanic	fluid mechanic
+noble gas	xenon
+material science	thermochromism
+material science	hysteresis
+physical oceanography	tsunami
+optic	spectroscopy
+thermodynamics	thermodynamic equation
+computer engineering	computer architecture
+particle physic	standard model
+physical oceanography	sea ice
+audio engineering	audio electronics
+atmospheric science	meteorology
+earthquake engineering	structural analysis
+photochemistry	ultraviolet radiation
+electrical phenomenon	electrical breakdown
+future	futurology
+information theory	quantum information theory
+biophysics	structural biology
+medical imaging	magnetic resonance imaging
+lighting	light art
+oceanography	marine biology
+medical physic	medical imaging
+rotation	rotational symmetry
+electromagnetic radiation	light
+optic	physical optic
+cryobiology	cryopreservation
+past	nostalgia
+theoretical physic	grand unified theory
+microtechnology	semiconductor device fabrication
+continuum mechanic	convection
+biophysics	magnetoreception
+oceanography	ocean
+fluid dynamic	hydraulics
+electromagnetism	electrical phenomenon
+electrochemistry	electrode
+chemical element	barium
+chemical element	rhenium
+electrical engineering	electrical equipment
+water	fresh water
+telecommunication engineering	radio communication
+differential topology	differential geometry
+computer architecture	interoperability
+vision	blindness
+ecosystem	desert
+computer hardware	hardware acceleration
+software engineering	computer programming
+magnetism	magnetic levitation
+chemical element	zinc
+mechanical engineering	tribology
+electrical engineering	audio engineering
+electrical phenomenon	atmospheric electricity
+histology	staining
+protein structure	protein folding
+darkness	dark matter
+condensed matter physic	mesoscopic physic
+chemical element	copper
+aerospace	astronautics
+dynamical system	critical phenomenon
+metal	iron
+astrodynamics	spacecraft propulsion
+electric power	ac power
+electrical phenomenon	lightning
+interoperability	backward compatibility
+electromagnetic radiation	synchrotron radiation
+crystal	ice
+optic	nonimaging optic
+power electronics	electric power conversion
+engine	aircraft engine
+telecommunication engineering	computer network
+physical chemistry	thermodynamics
+surfactant	phospholipid
+visibility	smog
+firefighting	fire protection
+copernican revolution	tycho brahe
+software engineering	software architecture
+mechanical engineering	turbomachinery
+astrophysics	astronomical spectroscopy
+chemical element	silicon
+piping	fluid dynamic
+machine	home appliance
+quantum electronics	quantum electrodynamics
+electrification	rural electrification
+music	musicology
+fire	smoke
+light	vision
+quantum chromodynamics	quark matter
+differential geometry	singularity theory
+earthquake	earthquake engineering
+light	darkness
+catalysis	homogeneous catalysis
+acoustic	psychoacoustics
+remote sensing	satellite imagery
+molecule	chemical compound
+lithosphere	rock
+electronics	automotive electronics
+electromagnetic spectrum	infrared
+future	destiny
+building automation	home automation
+chemical element	nitrogen
+semiconductor device	integrated circuit
+past	tradition
+quantum mechanic	hidden variable theory
+chemical element	molybdenum
+chemical element	gold
+meteorology	atmospheric circulation
+electronics	molecular electronics
+transport phenomenon	convection
+subatomic particle	fermion
+sound recording	music production
+welding	friction stir welding
+special relativity	minkowski spacetime
+particle physic	quantum mechanic
+aerodynamics	flight
+optic	holography
+nuclear chemistry	nuclear fallout
+physical cosmology	copernican revolution
+optoelectronics	laser
+electromagnetic spectrum	radio spectrum
+mechanic	seismology
+electrochemistry	electrolysis
+electrical engineering	high dynamic range
+scattering	resonance
+atomic physic	electron
+consumer electronics	personal computing
+electromagnetism	magnetohydrodynamics
+solid mechanic	geotechnical engineering
+differential topology	manifold
+embedded system	digital camera
+operator theory	functional calculus
+futurology	life extension
+fermion	baryon
+transport phenomenon	heat transfer
+particle physic	subatomic particle
+structural biology	structural bioinformatics
+superconductivity	superconductors
+operator theory	spectral theory
+water	water management
+copernican revolution	galileo galilei
+lepton	neutrino
+raman scattering	raman spectroscopy
+hydrodynamics	magnetohydrodynamics
+electronics industry	digital technology
+environmental chemistry	chemical accident
+telecommunication engineering	wireless
+machinery	agricultural machinery
+paleomagnetism	geomagnetic reversal
+spaceflight	human spaceflight
+dynamical system	complex dynamic
+dust	cosmic dust
+imaging	digital imaging
+telecommunication	telemetry
+mathematical physic	chaos theory
+electrodynamics	quantum electrodynamics
+albert einstein	einstein family
+voltage	voltage regulation
+microscopy	microbiology
+music	music education
+symplectic geometry	contact geometry
+chemical element	vanadium
+atmospheric science	climatology
+chemical element	promethium
+spaceflight	interstellar travel
+collision	ship collision
+music	music technology
+radiology	radiation therapy
+spaceflight	space policy
+great attractor	shapley supercluster
+software engineering	software quality
+quantum electronics	spintronics
+symplectic geometry	hamiltonian mechanic
+animal migration	bird migration
+laniakea supercluster	virgo supercluster
+theoretical physic	operator theory
+chemical element	iodine
+mineral	gemstone
+optic	optical coherence tomography
+history	historicity
+chemical element	rubidium
+telecommunication	television
+quantum information science	quantum complexity theory
+physical chemistry	scattering
+differential topology	contact geometry
+physical oceanography	tide
+computer engineering	computer science
+nuclear technology	nuclear reactor
+military communication	electronic warfare
+digital signal processing	video processing
+classical mechanic	hamiltonian mechanic
+ocean	marine conservation
+animal locomotion	terrestrial locomotion
+symmetry	rotational symmetry
+chemical element	sodium
+chemical element	plutonium
+soil mechanic	rock mechanic
+atom	chemical element
+quantum mechanic	quantum field theory
+special function	elliptic function
+aerodynamics	ventilation
+crystallography	diffraction
+scattering	scattering theory
+microbiology	microorganism
+electromagnetism	capacitance
+dynamical system	chaos theory
+chemical element	nihonium
+electron	electron microscopy
+electrodynamics	light
+semiconductor device fabrication	chemical vapor deposition
+nuclear physic	cold fusion
+nuclear fallout	fission product
+mechanical engineering	maintenance
+interoperability	integration platform
+quantum field theory	conformal field theory
+physical chemistry	surface science
+cryogenics	liquid helium
+spectroscopy	electron paramagnetic resonance
+light	lighting
+computer architecture	computer data storage
+spaceflight	space transport
+plasma physic	plasma diagnostics
+firefighting	incident management
+temperature control	heat exchanger
+electricity	electron
+cold	cryobiology
+chemical element	sulfur
+nonlinear optic	silicon photonics
+signal processing	image processing
+fire	fire protection
+symmetry	tessellation
+electronics industry	computer
+telecommunication engineering	signal processing
+electromagnetic spectrum	gamma ray
+planning	family planning
+finite element method	domain decomposition method
+chemical element	palladium
+sun	solar phenomenon
+seismology	tsunami
+astrophysics	quark matter
+molecular physic	molecular dynamic
+futurology	artificial intelligence
+nanotechnology	quantum electronics
+continuum mechanic	fracture mechanic
+semiconductor device fabrication	nanoelectronics
+body fluid	feces
+particle physic	computational particle physic
+history	oral history
+fishing	fishery
+nuclear physic	isotope
+geophysics	atmospheric electricity
+atmospheric science	atmospheric chemistry
+magnetism	magnetostatics
+optic	quantum optic
+nuclear physic	radioactivity
+quantum gravity	loop quantum gravity
+robotics	home automation
+stellar evolution	star formation
+electronics industry	information technology
+quantum field theory	string theory
+condensed matter	condensed matter physic
+electrical engineering	computer engineering
+differential topology	morse theory
+electronics	audio electronics
+remote sensing	synthetic aperture radar
+water	body water
+electrical engineering	computer science
+telecommunication	computer networking
+heating	induction heating
+air pollution	smog
+chemical element	bromine
+spacecraft propulsion	space elevator
+body fluid	body water
+electrical engineering	electronic engineering
+process engineering	implementation
+noble gas	radon
+electrical engineering	control engineering
+chemical element	rutherfordium
+chemical element	helium
+quantum mechanic	quantum electronics
+physical chemistry	physical organic chemistry
+spectroscopy	molecular vibration
+air pollution	scrubber
+physical chemistry	chemical kinetics
+chemical element	antimony
+fusion power	fusion reactor
+asymmetric information	mechanism design
+building automation	temperature control
+electronics	power electronics
+software engineering	software testing
+chemical compound	solvent
+imaging	image sensor
+interference	interferometry
+acceleration	accelerometer
+medical imaging	tomography
+information theory	quantum computing
+meteorology	space weather
+electrical engineering	electrical engineer
+plate tectonics	subduction
+soft matter	fluid mechanic
+ozone depletion	chlorofluorocarbon
+telecommunication	interstellar communication
+chemical element	chlorine
+fluid mechanic	fluid power
+electromagnetism	electrical engineering
+black hole	supermassive black hole
+heating	heat exchanger
+seismology	earthquake
+petroleum	petroleum geology
+microscopy	histopathology
+chemical element	argon
+particle physic	strangeness production
+electrochemistry	corrosion
+computer science	computational geometry
+astrophysics	nucleosynthesis
+petroleum	petroleum industry
+electrical breakdown	lightning
+animal locomotion	arboreal locomotion
+chemical element	holmium
+information theory	network performance
+electromagnetic spectrum	ultraviolet radiation
+luminescence	bioluminescence
+music	music psychology
+thermodynamics	convection
+dynamical system	stability theory
+memory	mnemonic
+hydraulics	hydraulic engineering
+neutrino	neutrino astronomy
+synchronization	clock signal
+nitrogen	nitrogen cycle
+information geometry	statistical distance
+consumer electronics	home automation
+telecommunication	telematics
+chemical element	neon
+continuum mechanic	thermodynamics
+nuclear chemistry	radioactivity
+electrical engineering	power engineering
+atom	subatomic particle
+electricity	electric charge
+earthquake engineering	tsunami
+temperature control	thermoregulation
+surface science	tribology
+video	video gaming
+plasma physic	space physic
+quantum optic	laser science
+radiology	nuclear medicine
+condensed matter physic	critical phenomenon
+maritime transport	ship
+surface science	friction
+astrophysics	astroparticle physic
+quantum optic	laser
+astrophysics	stellar evolution
+robotics	robot
+electric power	electric power generation
+computer engineering	electronic engineering
+geodynamics	subduction
+vision	pupil
+computational physic	molecular dynamic
+geophysics	seismology
+physical chemistry	gas law
+telecommunication	interference
+cold	winter
+electromagnetic radiation	optic
+atomic physic	spectroscopy
+emergence	interaction
+optic	light
+electronics	telecommunication
+atmosphere	atmospheric entry
+computer architecture	central processing unit
+planning	urban planning
+image processing	image compression
+biophysics	cryobiology
+natural gas	liquefied natural gas
+sound	noise
+light	light therapy
+mechanic	classical mechanic
+molecular physic	molecular electronics
+computational physic	computational electromagnetics
+dynamical system	electrodynamics
+sound	music
+chemical element	iridium
+tradition	knowledge sharing
+uranium	uranium mining
+ultrasound	sonar
+software	software industry
+elementary particle	lepton
+physical cosmology	big bang
+vision	optical spectrum
+chemical element	tungsten
+material science	fracture mechanic
+home appliance	plumbing
+mathematical physic	dynamical system
+natural gas	petroleum geology
+physical cosmology	cosmic background radiation
+photonics	optoelectronics
+chemical element	silver
+cold	ice
+electrochemistry	electrolyte
+histopathology	cytopathology
+electromagnetism	voltage
+biophysics	crystallography
+electromagnetic radiation	electromagnetic compatibility
+fluid dynamic	turbulence
+optic	photonics
+software engineering	software requirement
+wave	gravitational wave
+material science	metallurgy
+material science	condensed matter physic
+modern physic	quantum mechanic
+chemical element	isotope
+asymmetry	handedness
+lubricant	water
+animal migration	herding
+astrophysics	stellar dynamic
+chemical element	flerovium
+maritime transport	marine engineering
+atmospheric electricity	lightning
+astrophysics	cosmic ray
+chemical element	dysprosium
+water	drinking water
+prediction	prophecy
+quantum field theory	quantum gravity
+molecular physic	molecule
+gravity	great attractor
+solar power	photovoltaics
+alloy	aluminium alloy
+music	music history
+biogeography	introduced specie
+electronics	consumer electronics
+nuclear chemistry	nuclear magnetic resonance
+chemical element	germanium
+fluid static	hydrostatics
+condensed matter physic	semiconductor
+chemical element	praseodymium
+nuclear chemistry	radiochemistry
+fermion	lepton
+automation	avionics
+electric power	electric power conversion
+software	software development
+automation	machinery
+fire	firefighting
+virgo supercluster	local sheet
+nuclear physic	nuclear energy
+plastic	plastic industry
+signal processing	digital signal processing
+fluid mechanic	multiphase flow
+chemical element	strontium
+electric power generation	cogeneration
+optic	nonlinear optic
+video	television
+aerodynamics	drag
+quantum mechanic	quantum chemistry
+nanotechnology	nanoelectronics
+electric power	nuclear power
+chemical element	caesium
+vehicle dynamic	tire
+differential topology	symplectic geometry
+digital signal processing	speech recognition
+ion	cation
+chemical element	radium
+medical imaging	computational anatomy
+nuclear technology	radioactive waste
+wave	resonance
+crystal	metal
+operator theory	fredholm theory
+atomic physic	atom
+electric power	electric vehicle
+subatomic particle	elementary particle
+chemical element	fermium
+chemical physic	molecular physic
+emergence	system science
+wireless	remote control
+biophysics	radiobiology
+condensed matter physic	crystallography
+hydraulics	hydraulic machinery
+optic	imaging
+physical oceanography	sea level
+maintenance	nondestructive testing
+copernican revolution	isaac newton
+material science	tribology
+material science	continuum mechanic
+molecular physic	electron
+electricity	electrical breakdown
+chemical element	periodic table
+mechanical engineering	engineering mechanic
+structural analysis	finite element method
+celestial mechanic	celestial coordinate system
+fiber optic	optical fiber
+history	historic preservation
+atmospheric science	atmospheric sounding
+fermion	quark
+solid mechanic	seismology
+riemannian geometry	geometric flow
+chemical element	meitnerium
+oscillation	wave
+physical optic	refraction
+mechanic	statistical mechanic
+electricity	electric current
+buoyancy	archimedes
+fire	incineration
+radiometric dating	radiocarbon dating
+drying	desiccation
+embedded system	avionics
+marine energy	wave power
+optic	fiber optic
+plate tectonics	tectonic plate
+temperature	temperature control
+body fluid	saliva
+emission spectroscopy	fluorescence
+electronics industry	computing
+statistical mechanic	critical phenomenon
+sound	stereophonic sound
+chemical element	seaborgium
+mechanic	dynamical system
+statistical mechanic	phase transition
+lithosphere	earthquake
+classical mechanic	kinematics
+electric power	electrical equipment
+heat transfer	heat conduction
+velocity	airspeed
+digital electronics	digital circuit
+metal	precious metal
+prediction	forecasting
+electromagnetism	magnetism
+alloy	superalloys
+information theory	detection theory
+metal	alloy
+chemical element	niobium
+mechanic	collision
+lighting	building automation
+enrico fermi	fermi paradox
+radiobiology	nuclear fallout
+image processing	image segmentation
+chemical element	europium
+finite element method	mesh generation
+aerospace	aeronautics
+sound	ultrasound
+material science	nanotechnology
+protein targeting	secretion
+symmetry	supersymmetry
+chemical element	tellurium
+force	friction
+optic	geometrical optic
+quantum information science	quantum computing
+oceanography	sea ice
+chemical element	arsenic
+radiometric dating	geochronology
+chemical element	neodymium
+dynamical system	symbolic dynamic
+chemical element	krypton
+electronic engineering	computer science
+nuclear physic	nuclear magnetic resonance
+electronic engineering	semiconductor
+electric power	electric power transmission
+biogeography	biome
+robotics	cloud robotics
+baryon	proton
+physical oceanography	biogeography
+nuclear fusion	nucleosynthesis
+transport phenomenon	radiation
+embedded system	firmware
+robotics	machine vision
+emergence	complex dynamic
+static	gravity
+quantum field theory	antimatter
+prediction	futurology
+wireless	radio
+traumatology	trauma surgery
+nuclear chemistry	nuclear fusion
+quantum mechanic	quantum optic
+material science	polymer chemistry
+nuclear physic	quark matter
+metallurgy	bimetal
+electrodynamics	computational electromagnetics
+electric power	electrification
+crystallography	crystal
+radioactive waste	radioactive contamination
+optoelectronics	image sensor
+lighting	light pollution
+quantum field theory	quantum electrodynamics
+computer system	centralized computing
+automation	motion control
+particle physic	scattering
+computational physic	computational fluid dynamic
+gravity	levitation
+quantum field theory	renormalization group
+asymmetry	asymmetric information
+information theory	data compression
+noise	noise reduction
+atmospheric thermodynamics	atmospheric sounding
+synchronization	concurrency control
+body fluid	vomiting
+electric power distribution	electrical grid
+plate tectonics	geodynamics
+copernican revolution	johannes kepler
+local sheet	local group
+telecommunication	telephony
+quantum mechanic	pauli exclusion principle
+telecommunication	telecommunication equipment
+tornado	tornado
+quantum mechanic	atomic physic
+biogeochemistry	ecology
+metal	metalworking
+force	electromagnetism
+machine	robot
+heat transfer	heat exchanger
+chemical element	gallium
+mechanical engineering	piping
+electromagnetism	electrostatics
+lithosphere	fossil fuel
+telecommunication engineering	information theory
+telecommunication	radio
+electrodynamics	induction heating
+microbiology	virology
+past	history
+fire	candle
+resonance	orbital resonance
+electron	electron beam
+microscopy	staining
+nanotechnology	nanomedicine
+spectroscopy	absorption spectroscopy
+quantum chemistry	density functional theory
+cosmogony	chaos
+computer engineering	computer system
+noble gas	neon
+chemical element	tantalum
+chemical element	hydrogen
+microbiology	bacteriology
+computer system	embedded system
+electronic engineering	integrated circuit
+chemical element	lanthanum
+coal	coal mining
+electric power	power engineering
+microtechnology	microfluidics
+telecommunication	military communication
+radioactive contamination	nuclear fallout
+nuclear physic	nucleosynthesis
+electrical engineering	telecommunication engineering
+condensed matter physic	colloid
+electronics	digital electronics
+wave	acoustic
+chemical element	nobelium
+chemical element	bismuth
+geophysics	geophysical survey
+audio electronics	synchronization
+island	atoll
+sound	silence
+phase transition	percolation theory
+wave	radiation
+aerodynamics	flow visualization
+scattering	neutron scattering
+signal processing	statistical signal processing
+electricity	electric power
+physical chemistry	thermochemistry
+computer science	software
+global warming	greenhouse gas
+operator theory	singular value decomposition
+electronics industry	transistor
+physical cosmology	extragalactic astronomy
+subatomic particle	onium
+chemical element	actinium
+astrophysics	plasma physic
+day	holiday
+molecular biophysics	biomolecules
+planning	strategy
+chemical element	phosphorus
+metal	copper
+polymer	staining
+image processing	digital photography
+local bubble	tau ceti
+past	web archiving
+electrical engineering	electric power conversion
+geodesy	global positioning system
+aerospace	aerospace engineering
+differential geometry	general relativity
+motherboard	bios
+chemical element	fluorine
+conformal field theory	critical phenomenon
+quantum computing	quantum cryptography
+chemical element	cadmium
+dynamical system	control engineering
+electric vehicle	electric car
+mechanical engineering	machine
+radiology	interventional radiology
+celestial mechanic	gravity
+home appliance	home automation
+dynamical system	entropy
+electronics	embedded system
+lithosphere	volcano
+cleaning	dishwashing
+chemical element	beryllium
+signal processing	detection theory
+medical imaging	radiology
+statistical mechanic	particle statistic
+computer engineering	computer hardware
+chemical element	xenon
+electronics industry	semiconductor device
+electroanalytical method	electrophoresis
+celestial mechanic	astrodynamics
+optic	microscopy
+polymer chemistry	monomer
+biomolecules	free radical
+dynamical system	arithmetic dynamic
+vision	computer vision
+signal processing	geometry processing
+condensed matter physic	hall effect
+mechanical engineering	welding
+structural bioinformatics	molecular modelling
+software engineering	web development
+nuclear fusion	fusion power
+fluid dynamic	flow visualization
+continuum mechanic	rheology
+vision	color vision
+molecule	molecular geometry
+statistical mechanic	statistical physic
+electronics	electronics industry
+ecosystem	forest
+electronics	spintronics
+mathematical physic	statistical mechanic
+mineral	mining
+riemannian geometry	hodge theory
+image sensor	color filter array
+electric power generation	distributed generation
+medical physic	nuclear medicine
+chemical element	terbium
+water	hydropower
+computer architecture	msx
+telecommunication	broadcasting
+molecular physic	molecular modelling
+physical chemistry	spectroscopy
+fermion	pauli exclusion principle
+pacific ocean	south pacific
+physical chemistry	equilibrium chemistry
+physical cosmology	observational cosmology
+emergence	holism
+software	software engineering
+radiology	radiography
+chemical element	hafnium
+smoke	smoking
+chemical element	lutetium
+vision	optometry
+laundry	ironing
+electric power	electric power distribution
+chemiluminescence	bioluminescence
+nuclear technology	nuclear weapon
+material science	metamaterials
+ocean	atlantic ocean
+natural gas	well logging
+machine	kinematics
+digital electronics	computer hardware
+interferometry	aperture synthesis
+electrical engineering	electric power
+digital electronics	clock signal
+power engineering	turbomachinery
+kinematics	robot kinematics
+chemical element	californium
+material science	microtechnology
+differential topology	singularity theory
+computer hardware	clock signal
+tessellation	girih
+video	home video
+imaging	medical imaging
+cleaning	laundry
+image processing	interpolation
+body fluid	semen
+heating	district heating
+medical imaging	electrophysiology
+condensed matter physic	fermion
+history	historiography
+theoretical physic	quantum mechanic
+nuclear technology	isotope separation
+oceanography	physical oceanography
+audio electronics	digital audio
+radioactivity	radiometric dating
+wave	light
+theoretical physic	differential topology
+pattern formation	emergence
+biogeography	animal migration
+quantum field theory	standard model
+chemical element	thulium
+reliability engineering	fault tolerance
+fluid dynamic	computational fluid dynamic
+electrodynamics	electromagnetic radiation
+sound	sound recording
+chemical element	radon
+differential geometry	tensor
+surface science	cleaning
+chemical element	francium
+information theory	algorithmic information theory
+geophysics	geodesy
+chemical element	magnesium
+nanotechnology	molecular electronics
+geometrical optic	parallax
+nuclear medicine	radiation therapy
+automation	building automation
+force	gravity
+chemical element	gadolinium
+condensed matter physic	spintronics
+theoretical physic	ideal gas
+visibility	fog
+ocean	southern ocean
+chemical element	lead
+radioactivity	radioactive waste
+water	water scarcity
+automation	home automation
+electrochemistry	electrochemical engineering
+electric power distribution	distributed generation
+molecular physic	spectroscopy
+electronics industry	semiconductor
+differential geometry	manifold
+chemical element	lawrencium
+future	prediction
+automation	robotics
+differential geometry	riemannian geometry
+chemical element	uranium
+torque	torsional vibration
+tsunami	tsunami
+noise	noise pollution
+chemical element	thorium
+future	planning
+body fluid	blood
+mechanical engineering	mechanic
+nuclear power	fusion power
+fire	arson
+spectroscopy	emission spectroscopy
+protein structure	posttranslational modification
+soft matter	particulate
+theoretical physic	differential geometry
+vision	visual system
+electronics industry	consumer electronics
+storm	tornado
+fluorescence	energy transfer
+solar energy	solar architecture
+water	waterborne disease
+singularity theory	bifurcation theory
+biomechanics	animal locomotion
+emergence	system thinking
+light	gravitational lensing
+physical cosmology	general relativity
+classical mechanic	force
+planning	time management
+chemical element	ytterbium
+medical physic	radiation therapy
+histology	histopathology
+electromagnetic spectrum	optical spectrum
+quantum mechanic	hilbert space
+plate tectonics	orogeny
+noble gas	krypton
+consumer electronics	mobile phone
+futurology	prevention
+chemical element	curium
+air pollution	greenhouse gas
+soft matter	lubricant
+music	music industry
+digital electronics	integrated circuit
+digital signal processing	image processing
+astrophysics	asteroseismology
+chemical element	iron
+aerodynamics	wind power
+heat transfer	convection
+chemical element	astatine
+accelerator physic	synchrotron radiation
+condensed matter physic	soft matter
+chemical compound	phytochemical
+ecosystem	system ecology
+cryogenics	cryopreservation
+music	music theory
+polymer chemistry	polymer
+remote sensing	remote sensing software
+electrical breakdown	electromagnetic compatibility
+computational geometry	convex hull algorithm
+spaceflight	astrodynamics
+oceanography	meteorology
+computer system	computer hardware
+electrophysiology	cardiac electrophysiology
+atomic physic	emission spectroscopy
+electronic engineering	digital electronics
+kinematics	acceleration
+mechanic	solid mechanic
+fluid dynamic	rheology
+semiconductor device	semiconductor device fabrication
+continuum mechanic	transport phenomenon
+meteorology	climatology
+buoyancy	weightlessness
+prediction	impact assessment
+air pollution	smoke
+smog	particulate
+chaos theory	emergence
+neutron	neutron scattering
+optic	invisibility
+chemical kinetics	enzyme kinetics
+singularity theory	morse theory
+geodesy	gravimetry
+quantum field theory	dirac equation
+dynamical system	bifurcation theory
+sun	day
+biophysics	molecular biophysics
+petroleum	petroleum product
+electricity	electric fish
+quantum mechanic	quantum information science
+fluid mechanic	fluid dynamic
+molecular physic	molecular vibration
+standard model	quantum chromodynamics
+nuclear fusion	cold fusion
+quantum information science	quantum information theory
+chemical compound	mineral
+music	musical composition
+chemical physic	polymer physic
+coral reef	atoll
+heating	electric heating
+material science	superconductivity
+standard model	electroweak theory
+plasma physic	fusion power
+imaging	photography
+imaging	remote sensing
+uranium	depleted uranium
+nuclear energy	nuclear power
+body fluid	urine
+fluid dynamic	drag
+darkness	light pollution
+temperature	thermoregulation
+history	chronology
+superconductivity	josephson effect
+computational physic	computational particle physic
+software engineering	software design
+heat transfer	thermoregulation
+particle physic	elementary particle
+electromagnetism	electricity
+silence	mime
+chemical element	manganese
+tradition	conservatism
+solar architecture	solar decathlon
+information theory	information geometry
+voltage	capacitance
+particulate	dust
+atom	molecule
+history	legacy
+nuclear energy	nuclear technology
+tradition	cultural history
+chemical element	platinum
+chemical element	thallium
+medical imaging	positron emission tomography

@@ -1,0 +1,100 @@
+dynamical system	symbolic dynamic
+operation research	network theory
+rational number	integer
+category theory	universal algebra
+electrodynamics	electromagnetic radiation
+information theory	quantum computing
+mathematical logic	algebraic logic
+graph theory	graph rewriting
+fuzzy logic	predicate logic
+trigonometry	angle
+abstract algebra	relational algebra
+discrete mathematics	discrete geometry
+modal logic	temporal logic
+theoretical computer science	algorithm
+formal method	turing machine
+algebra	computer algebra
+game theory	poker strategy
+algebraic geometry	birational geometry
+elementary arithmetic	multiplication
+combinatorics	percolation theory
+subtraction	distance
+dynamical system	electrodynamics
+trigonometry	inverse trigonometric function
+linear algebra	singular value decomposition
+control theory	stability theory
+statistical mechanic	renormalization group
+thermodynamics	heat transfer
+operator theory	functional calculus
+computational science	artificial life
+cybernetics	emergence
+algebra	linear algebra
+set theory	determinacy
+subtraction	differential calculus
+algebraic topology	intersection theory
+computational statistic	variance reduction
+critical phenomenon	renormalization group
+symmetry	tessellation
+algorithm	numerical analysis
+mathematical analysis	numerical analysis
+rotation	rotational symmetry
+linear algebra	multilinear algebra
+modular arithmetic	quadratic residue
+network topology	mesh networking
+combinatorics	design theory
+analytic number theory	sieve theory
+mathematical logic	boolean algebra
+computational neuroscience	neural coding
+geometry	technical drawing
+computational mathematics	computational number theory
+graph theory	mathematical chemistry
+trigonometry	spherical trigonometry
+number theory	arithmetic dynamic
+elementary mathematics	elementary algebra
+algebraic geometry	diophantine geometry
+differential geometry	manifold
+complex analysis	special function
+complex analysis	complex dynamic
+game theory	game design
+mathematical finance	algorithmic trading
+artificial life	emergence
+geometry	analytic geometry
+dynamical system	oscillation
+multilinear algebra	invariant theory
+topology	manifold
+combinatorics	permutation
+multilinear algebra	tensor
+measure theory	integral geometry
+dynamical system	chaos theory
+complex number	real number
+abstract algebra	universal algebra
+linear algebra	spectral theory
+elementary arithmetic	subtraction
+phase transition	percolation theory
+mathematical logic	type theory
+operator theory	singular value decomposition
+differential calculus	differentiation rule
+dynamical system	critical phenomenon
+game theory	mechanism design
+cryptography	ransomware
+computational statistic	artificial neural network
+recursion	mathematical induction
+geometry	discrete geometry
+dynamical system	complex dynamic
+dynamical system	ergodic theory
+mathematical analysis	fourier analysis
+mathematical logic	model theory
+applied statistic	biostatistics
+mathematical economics	mathematical finance
+geometry	symmetry
+topology	topological graph theory
+differential geometry	tensor
+computational mathematics	automated theorem proving
+numerical analysis	structural analysis
+diophantine equation	pythagorean theorem
+combinatorics	ramsey theory
+recreational mathematics	arithmetic dynamic
+abstract algebra	algebraic topology
+dynamical system	stability theory
+strategy	defense
+spherical geometry	spherical trigonometry

@@ -1,0 +1,100 @@
+seismology	geotechnical engineering
+nuclear fusion	cold fusion
+astrophysics	quark matter
+continuum mechanic	convection
+magnetism	magnetostatics
+biophysics	nuclear magnetic resonance
+electrical phenomenon	hall effect
+seismology	earthquake
+acoustic	psychoacoustics
+physical chemistry	chemical thermodynamics
+continuum mechanic	fluid dynamic
+wave	gravitational wave
+chemical physic	molecular physic
+critical phenomenon	phase transition
+subatomic particle	elementary particle
+mechanic	solid mechanic
+oceanography	ocean
+mechanic	oscillation
+quantum mechanic	atomic physic
+quantum mechanic	perturbation theory
+quantum field theory	standard model
+special relativity	aether theory
+continuum mechanic	thermodynamics
+condensed matter physic	semiconductor
+classical mechanic	celestial mechanic
+quantum field theory	antimatter
+phase transition	cryobiology
+oceanography	marine biology
+cryogenics	cryopreservation
+atmospheric thermodynamics	temperature
+condensed matter physic	critical phenomenon
+molecular physic	molecular electronics
+symmetry	supersymmetry
+continuum mechanic	acoustic
+differential topology	singularity theory
+piping	fluid dynamic
+physical chemistry	surface science
+mechanic	continuum mechanic
+electronics	electronic engineering
+soft matter	colloid
+quantum mechanic	quantum optic
+electrical engineering	computer science
+mechanical engineering	engineering mechanic
+operator theory	spectral theory
+atomic physic	atom
+dynamical system	stability theory
+medical physic	nuclear medicine
+particle physic	standard model
+copernican revolution	tycho brahe
+cryogenics	liquid helium
+nuclear technology	isotope separation
+material science	tribology
+velocity	acceleration
+electrodynamics	light
+continuum mechanic	solid mechanic
+physical oceanography	biogeography
+differential geometry	symplectic geometry
+telecommunication engineering	signal processing
+mathematical physic	dynamical system
+nuclear chemistry	radiochemistry
+astrophysics	cosmic ray
+electromagnetism	magnetism
+thermodynamics	thermodynamic equation
+physical chemistry	ion
+riemannian geometry	geometric flow
+force	friction
+thermodynamics	heat conduction
+physical cosmology	copernican revolution
+optic	invisibility
+dynamical system	symbolic dynamic
+astrophysics	stellar dynamic
+mechanic	kinematics
+differential topology	manifold
+physical chemistry	spectroscopy
+rotation	rotational symmetry
+biophysics	magnetoreception
+mechanic	collision
+singularity theory	morse theory
+extragalactic astronomy	galaxy
+electrochemistry	electrode
+material science	fracture mechanic
+electromagnetism	capacitance
+electrodynamics	computational electromagnetics
+modern physic	quantum mechanic
+fluid dynamic	rheology
+nuclear chemistry	nuclear fallout
+electric power	electrical equipment
+theoretical physic	dark matter
+computational physic	computational electromagnetics
+scattering	scattering theory
+classical mechanic	hamiltonian mechanic
+collision	ship collision
+scattering	resonance
+surface science	friction
+differential geometry	manifold
+condensed matter physic	soft matter
+light	gravitational lensing
+theoretical physic	string theory
+superconductivity	josephson effect
+dynamical system	control engineering

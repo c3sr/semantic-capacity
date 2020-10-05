@@ -1,0 +1,782 @@
+computational neuroscience	artificial intelligence
+computer security	computer forensics
+computer networking	network management
+computational science	numerical analysis
+ecosystem	grassland
+character encoding	braille
+internet fraud	spamming
+system science	conformity
+graph theory	algebraic graph theory
+artificial intelligence	cognitive architecture
+computer programming	code refactoring
+quantum computing	quantum programming
+algorithmic art	cellular automaton
+digital signal processing	image processing
+digital signal processing	video processing
+robotics	biorobotics
+web development	web analytics
+computational science	computer algebra
+computer access control	digital right management
+data modeling	identification
+digital forensics	computer forensics
+cybercrime	spamming
+concurrent computing	distributed computing
+artificial intelligence	knowledge representation
+language family	siouan language
+functional group	ketone
+map	globe
+computer security	computer access control
+concurrent computing	denotational semantics
+algorithm	signal processing
+neurotechnology	neuroprosthetics
+medical imaging	positron emission tomography
+tracking	motion capture
+finite element method	mesh generation
+language family	mayan language
+quantum information science	quantum programming
+disaster recovery	backup
+information theory	data differencing
+lexicography	definition
+finite element method	domain decomposition method
+web service	enterprise application integration
+knowledge engineering	knowledge representation
+computer security	information privacy
+image compression	jpeg
+taxonomy	folksonomy
+automated reasoning	type inference
+middleware	remote procedure call
+embedded system	robotics
+interoperability	backward compatibility
+artificial intelligence	cloud robotics
+interpolation	multivariate interpolation
+access control	computer access control
+medical imaging	computational anatomy
+internet safety	cyberbullying
+evolutionary computation	evolutionary algorithm
+computational science	computational physic
+linux	linux kernel
+information geometry	statistical distance
+computational physic	computational electromagnetics
+data compression	video compression
+computational science	cheminformatics
+digital right management	hardware restriction
+declarative programming	constraint programming
+artificial intelligence	computer vision
+software architecture	enterprise architecture
+computer networking	networking hardware
+software engineering	formal method
+computer architecture	computer data storage
+pattern matching	regular expression
+computational mathematics	automated theorem proving
+temperature control	heat exchanger
+wireless networking	indoor positioning system
+network management	routing
+semantic web	folksonomy
+enterprise architecture	architecture description language
+cybercrime	malware
+signal processing	detection theory
+software development	software development process
+computational mathematics	numerical analysis
+digital right management	copy protection
+color	hair color
+computer graphic	stereoscopy
+digital humanity	computational archaeology
+computational science	computational chemistry
+computer forensics	computer surveillance
+software quality	software testing
+cartography	indoor positioning system
+fuzzy logic	predicate logic
+memory management	virtual memory
+holism	system thinking
+constraint programming	constraint logic programming
+computational statistic	data mining
+color	pigment
+javascript	adaptive web design
+network theory	network flow problem
+central processing unit	microprocessor
+computer architecture	central processing unit
+algorithm	computer algebra
+holography	holographic data storage
+algorithm	recursion
+computer programming	concurrent computing
+system science	system ecology
+information theory	detection theory
+tracking	indoor positioning system
+perimeter security	access control
+logic programming	belief revision
+color	color photography
+mobile phone	smartphones
+emergence	emergent gameplay
+online service	cloud computing
+tomography	optical coherence tomography
+cartography	hydrography
+computer access control	identity management
+natural language processing	natural language generation
+computational science	computational mathematics
+medical imaging	electrophysiology
+evolutionary algorithm	genetic algorithm
+information appliance	smart tv
+surveying	home inspection
+booting	system image
+identification	anonymity
+embedded system	information appliance
+color	web color
+bioinformatics	structural bioinformatics
+supercomputer	cray
+omics	phenomics
+computer graphic	video game graphic
+personal computer	atari st
+privacy law	personality right
+audio electronics	audio mixing
+cartography	web mapping
+software engineering	web development
+web design	cascading style sheet
+personal computer	amiga
+compiler construction	program analysis
+computer security	computer security software
+artificial intelligence	evolutionary computation
+wireless networking	mobile web
+cloud computing	serverless computing
+ubiquitous computing	indoor positioning system
+enterprise architecture	information architecture
+wireless networking	bluetooth
+assistive technology	braille
+method engineering	fagan inspection
+computational geometry	convex hull algorithm
+assistive technology	remote control
+method engineering	configuration management
+computer architecture	operating system
+access control	authentication
+software development process	agile software development
+authentication	identification
+web mapping	google map
+mobile security	mobile malware
+personal computer	vaio
+graph theory	graph operation
+video game design	video game graphic
+coding theory	neural coding
+security engineering	secure communication
+temperature control	thermoregulation
+cybercrime	internet safety
+cybercrime	computer security
+computer networking	wireless networking
+signal processing	statistical signal processing
+bioinformatics	omics
+signal processing	image processing
+algorithm	algorithmic trading
+machine learning	bayesian network
+wireless networking	packet radio
+key management	digital signature
+language family	austroasiatic language
+system science	system engineering
+numerical linear algebra	least square
+software development process	method engineering
+enterprise architecture	enterprise modelling
+computational chemistry	molecular dynamic
+computational science	computational social science
+formal method	formal specification
+bioinformatics	synthetic biology
+web service	internet search
+signal processing	geometry processing
+artificial life	emergence
+computational linguistics	machine translation
+wireless networking	netgear
+remote sensing	synthetic aperture radar
+numerical analysis	finite difference
+scientific classification	chemical classification
+taxonomy	morphology
+access control	identification
+secure communication	cryptography
+software architecture	interoperability
+computational mathematics	computational statistic
+parallel computing	cache coherency
+computational linguistics	speech recognition
+numerical analysis	mesh generation
+proxy server	forward proxy
+embedded system	avionics
+security engineering	computer security
+web development	html
+color	pink
+emergence	system thinking
+ecosystem	desert
+cheminformatics	combinatorial chemistry
+programming language theory	program transformation
+laptop	dell laptop
+color	primary color
+numerical analysis	structural analysis
+parallel computing	speculative execution
+cybercrime	digital forensics
+geolocation	geosocial networking
+web development	web accessibility
+robot control	robot kinematics
+cloud computing	cloud storage
+ubiquitous computing	tracking
+data security	information governance
+model checking	temporal logic
+emergence	holism
+software review	fagan inspection
+online service	electronic publishing
+computer vision	mathematical morphology
+language family	ainu language
+data security	fault tolerance
+embedded system	firmware
+group theory	geometric group theory
+quantum information science	quantum complexity theory
+web development	web syndication
+key management	public key infrastructure
+smart device	smartphones
+language family	mande language
+color	paint
+lexicography	glossary
+computer vision	geometry processing
+reliability engineering	human reliability
+network architecture	local loop
+computer access control	authentication
+lexicography	vocabulary
+information governance	information architecture
+software development	web development
+system thinking	quality management
+information theory	network performance
+evolutionary algorithm	genetic programming
+computability theory	turing machine
+cartography	aerial photography
+data security	data protection
+reductionism	teleology
+numerical analysis	mathematical optimization
+smart device	smart grid
+computational science	computational neuroscience
+speech processing	speech synthesis
+geolocation	tracking
+security engineering	access control
+genetic algorithm	gene expression programming
+online service	online chat
+information theory	quantum computing
+coding theory	data compression
+network service	push technology
+data security	computer access control
+cartography	topography
+machine learning	computational learning theory
+video processing	video compression
+proxy server	reverse proxy
+software development	computer programming
+computer graphic	graphic software
+programming language theory	programming language
+ubiquitous computing	ambient intelligence
+network performance	queueing theory
+static program analysis	abstract interpretation
+software project management	agile software development
+assistive technology	telehealth
+computer security	access control
+machine learning	structured prediction
+logic programming	constraint programming
+operating system	unix
+computer access control	smart card
+machine learning	artificial neural network
+color	color vision
+mac os	macos
+wikis	wiki software
+evolutionary computation	artificial life
+smartphones	maemo
+machine learning	genetic programming
+artificial intelligence	knowledge engineering
+internet safety	internet fraud
+network performance	forward proxy
+computational mathematics	computational geometry
+software design	data modeling
+cloud computing	hadoop
+computational complexity theory	quantum complexity theory
+biometrics	face recognition
+unix	network socket
+software development	software project management
+cartography	geographic information system
+mathematical optimization	stochastic optimization
+software architecture	architecture description language
+machine learning	ensemble learning
+computer data storage	storage virtualization
+system science	system psychology
+agile software development	extreme programming
+internet security	transport layer security
+computer security	computational trust
+biometrics	signature
+theoretical computer science	formal method
+cybercrime	internet fraud
+computer graphic	vector graphic
+theoretical computer science	computational learning theory
+smartphones	iphone
+firmware	custom firmware
+missile guidance	global positioning system
+information theory	data compression
+assistive technology	adaptive clothing
+cryptography	ransomware
+assistive technology	speech synthesis
+mathematical optimization	pareto efficiency
+computational trust	authentication
+smart device	smart tv
+web service	web mapping
+networking hardware	netgear
+cryptography	quantum cryptography
+personal computer	nettop
+information privacy	privacy law
+algorithm	computational statistic
+algorithm	evolutionary algorithm
+computer programming	quantum programming
+control flow	recursion
+formal method	model checking
+artificial intelligence	logic programming
+computer graphic	texture mapping
+mathematical optimization	combinatorial optimization
+character encoding	unicode
+holography	holonomic brain theory
+predicate logic	quantification
+instant messaging	xmpp
+network management	network performance
+computer graphic	graphic hardware
+cascading style sheet	web color
+security engineering	prison
+network management	radio resource management
+concurrency control	transactional memory
+embedded system	digital camera
+transport layer security	public key infrastructure
+security engineering	perimeter security
+software engineering	software architecture
+web development	web service
+network theory	combinatorial optimization
+signature	digital signature
+computational mathematics	computer algebra
+graph theory	geometric graph theory
+medical imaging	medical ultrasonography
+ecosystem	forest
+embedded system	robot
+robot control	robot navigation
+computational physic	computational fluid dynamic
+robotics	robot
+reliability engineering	environmental testing
+computer vision	machine vision
+mobile phone	mobile device management
+denotational semantics	domain theory
+software development	software release
+data mining	process mining
+lexicography	dictionary
+cryptography	kleptography
+radiology	radiation therapy
+computer security	cryptography
+knowledge representation	belief revision
+distributed computing	volunteer computing
+programming language theory	type theory
+computer networking	network architecture
+geolocation	indoor positioning system
+software quality	formal method
+machine learning	reinforcement learning
+computational neuroscience	neural coding
+concurrent computing	parallel computing
+cloud computing	cloud gaming
+data compression	image compression
+javascript	json
+declarative programming	logic programming
+reliability engineering	fault tolerance
+graph theory	extremal graph theory
+computational linguistics	natural language generation
+software documentation	literate programming
+transaction processing	transactional memory
+group theory	computational group theory
+knowledge representation	semantic web
+secure communication	transport layer security
+artificial neural network	deep learning
+machine learning	supervised learning
+computability theory	lambda calculus
+structural analysis	finite element method
+video game design	procedural generation
+computer programming	algorithm
+avionics	radio direction finding
+spamming	web scraping
+software engineering	software testing
+debian	dpkg
+computational neuroscience	neurotechnology
+vector graphic	scalable vector graphic
+software testing	software review
+network performance	reverse proxy
+assistive technology	hearing aid
+numerical analysis	interpolation
+program analysis	static program analysis
+omics	genomics
+software testing	unit testing
+medical imaging	tomography
+online service	online analytical processing
+omics	proteomics
+cybercrime	darknet market
+computer programming	live coding
+cloud computing	cloud robotics
+computational neuroscience	artificial neural network
+cartography	collaborative mapping
+system science	cybernetics
+functional group	ester
+computability theory	recursion
+computer security software	antivirus software
+image processing	digital photography
+algorithm	pattern matching
+artificial intelligence	affective computing
+theoretical computer science	quantum information science
+emergent gameplay	machinima
+quantum information science	quantum information theory
+logic programming	automated theorem proving
+system science	system theory
+computer networking	smart device
+robot control	robotic sensing
+computer data storage	computer memory
+identity management	federated identity
+computer programming	data structure
+color	school color
+mathematical optimization	convex optimization
+computer architecture	interoperability
+information privacy	medical privacy
+information theory	quantum information theory
+signal processing	digital signal processing
+data security	data erasure
+computational mathematics	computational topology
+declarative programming	functional programming
+convex analysis	convex optimization
+assistive technology	prosthetics
+audio electronics	synchronization
+numerical analysis	numerical linear algebra
+combinatorial optimization	network flow problem
+cascading style sheet	responsive web design
+rating	credit rating
+information theory	information geometry
+programming language implementation	memory management
+cryptography	cryptography standard
+computer security software	privacy software
+structural bioinformatics	molecular modelling
+identifier	call sign
+software quality	reliability engineering
+build automation	continuous integration
+polyhedron	tessellation
+computer graphic	procedural generation
+authentication	email authentication
+theoretical computer science	algorithm
+map	web mapping
+formal method	program analysis
+computer memory	memory management
+belief revision	cognitive inertia
+linear programming	polyhedron
+identification	biometrics
+natural language processing	machine translation
+lexicography	terminology
+dark web	darknet market
+remote sensing	telepresence
+identification	brand management
+biometrics	anthropometry
+network architecture	osi model
+photogrammetry	aerial photography
+hair color	blond hair
+hydrography	limnology
+computer architecture	network architecture
+hydrography	oceanography
+operating system	computer networking
+information appliance	smartphones
+computer security software	computer forensics
+modal logic	temporal logic
+artificial intelligence	machine learning
+scientific classification	biological classification
+artificial neural network	neural network software
+medical imaging	magnetic resonance imaging
+artificial intelligence	robotics
+video game design	game accessibility
+web syndication	podcasting
+emergence	interaction
+software development	video game development
+computational complexity theory	circuit complexity
+computer vision	image processing
+coding theory	character encoding
+firmware	bios
+identification	animal identification
+computer vision	digital geometry
+computer security	transport layer security
+internet fraud	fake news
+network service	email
+chaos theory	emergence
+home automation	smart device
+compiler	compiler construction
+supercomputer	supercomputer operating system
+radiology	interventional radiology
+image processing	color
+information privacy	disclosure
+quantum computing	quantum cryptography
+scientific visualization	flow visualization
+computer graphic	scientific visualization
+computational physic	molecular dynamic
+cryptocurrencies	bitcoin
+identifier	name
+recursion	mathematical induction
+artificial intelligence	automated reasoning
+computational linguistics	natural language processing
+holism	modularity
+type theory	type inference
+robotics	adaptable robotics
+computability theory	combinatory logic
+linux	linux distribution
+theoretical computer science	graph theory
+computer surveillance	edward snowden
+bioinformatics	phylogenetics
+distributed computing	cryptocurrencies
+data security	backup
+linux	ubuntu
+audio electronics	digital audio
+robotics	home automation
+procedural generation	demoscene
+wireless networking	mesh networking
+network service	usenet
+language family	salishan language
+computer networking	online service
+digital right management	digital watermarking
+macos	ios
+fault tolerance	uninterruptible power supply
+robotics	machine vision
+formal method	turing machine
+graph theory	graph coloring
+computer networking	computer network
+graph theory	network theory
+modal logic	provability logic
+home automation	temperature control
+data modeling	formal method
+computer graphic	image processing
+cryptocurrencies	ethereum
+programming language theory	compiler construction
+collaborative mapping	geosocial networking
+embedded system	smart device
+map	map series
+functional group	amine
+system thinking	futurology
+assistive technology	home automation
+web development	web design
+programming language implementation	compiler construction
+group theory	galois theory
+radiology	nuclear medicine
+optical spectrum	green
+internet privacy	geolocation
+algorithm	numerical analysis
+machine learning	support vector machine
+programming language theory	lambda calculus
+computer network	internet culture
+network service	web service
+computational science	scientific visualization
+natural language processing	corpus linguistics
+logic programming	constraint logic programming
+medical imaging	radiology
+computer security	data security
+cascading style sheet	adaptive web design
+automated reasoning	automated theorem proving
+anonymity	anonymous social medium
+internet privacy	privacy software
+network architecture	cyberinfrastructure
+image processing	image segmentation
+online service	web hosting
+digital signal processing	speech recognition
+booting	bios
+neurotechnology	neurostimulation
+cloud computing	nextcloud
+software project management	software development
+cluster computing	hadoop
+electrophysiology	cardiac electrophysiology
+booting	network booting
+machine learning	evolutionary algorithm
+artificial intelligence	fuzzy logic
+data security	database security
+medical software	medical simulation
+software engineering	software maintenance
+online service	internet television
+backup	backup software
+data modeling	relational algebra
+brand management	merchandise
+computational statistic	artificial neural network
+combinatorial optimization	linear programming
+computer data storage	cloud storage
+software engineering	software design
+identity management	identity management system
+software architecture	enterprise application integration
+assistive technology	telepresence
+quantum information science	quantum computing
+signal processing	audio electronics
+image compression	texture compression
+language family	muskogean language
+procedural generation	algorithmic art
+computer graphic	geometry processing
+computer networking	net neutrality
+backup	system image
+map	indoor positioning system
+digital photography	digital camera
+information privacy	internet privacy
+computer vision	image segmentation
+database theory	database normalization
+web design	adaptive web design
+machine learning	cluster analysis
+scientific classification	morphology
+graph theory	matching
+omics	glycomics
+programming language implementation	compiler
+web design	url
+system science	system biology
+computability theory	hypercomputation
+data security	backup software
+computer programming	programming language
+computer security	mobile security
+computational complexity theory	parameterized complexity
+online service	internet radio
+computer vision	photogrammetry
+data mining	cluster analysis
+operating system	supercomputer operating system
+color	rainbow
+computational science	computational fluid dynamic
+categorical logic	topos theory
+web accessibility	assistive technology
+graph theory	graph rewriting
+group theory	representation theory
+combinatorial optimization	travelling salesman problem
+cryptography	key management
+stochastic optimization	stochastic control
+control flow	subroutine
+machine learning	unsupervised learning
+system thinking	business continuity
+system science	operation research
+middleware	object request broker
+language family	dravidian language
+computational science	computational biology
+concurrency control	transaction processing
+character encoding	collation
+assistive technology	computer accessibility
+computational statistic	variance reduction
+digital signal processing	geometry processing
+computer data storage	backup
+computer programming	debugging
+phylogenetics	genealogy
+wikileaks	julian assange
+computer memory	transactional memory
+system science	holism
+personal computer	laptop
+graph theory	topological graph theory
+cartography	surveying
+computational complexity theory	quantum computing
+algorithm	computational physic
+enterprise architecture	enterprise application integration
+numerical analysis	approximation theory
+biometrics	graphology
+computer graphic	shading
+computer networking	network service
+cloud storage	nextcloud
+cybercrime	cyberbullying
+color	color
+software engineering	computer programming
+system science	chaos theory
+theoretical computer science	quantum computing
+digital signal processing	speech processing
+image processing	interpolation
+networking hardware	fiber optic
+online service	online help
+computer programming	source code
+identification	identifier
+wireless networking	wireless sensor network
+emergence	complex dynamic
+computer security	computer surveillance
+tablet computer	ipad
+system thinking	technology assessment
+web design	responsive web design
+version control	github
+ecosystem	system ecology
+algorithm	computational group theory
+robotics	physical computing
+bioinformatics	neuroinformatics
+phylogenetics	computational phylogenetics
+ios	iphone
+key management	secret sharing
+information theory	algorithmic information theory
+algorithm	computational number theory
+cryptography	steganography
+computer graphic	raster graphic
+backup	disk cloning
+machine learning	inductive logic programming
+computer graphic	digital geometry
+data erasure	file deletion
+software engineering	software development
+parallel computing	domain decomposition method
+artificial intelligence	robot
+coding theory	data differencing
+computer graphic	texture filtering
+software engineering	software requirement
+generic programming	metaprogramming
+perl	raku
+computational science	artificial life
+topography	landforms
+smart device	smart card
+semantic web	resource description framework
+information privacy	differential privacy
+software development	software documentation
+chaos theory	fractal
+demoscene	demo
+programming language theory	program analysis
+interaction	chemical bonding
+program analysis	incremental computing
+central processing unit	cache coherency
+color	dye
+software engineering	version control
+computer access control	federated identity
+network theory	network analysis
+secure communication	computer security
+color	eye color
+computer architecture	heterogeneous computing
+computational science	computational linguistics
+data structure	succinct data structure
+copy protection	digital watermarking
+theoretical computer science	pseudorandomness
+interoperability	integration platform
+online service	instant messaging
+information theory	coding theory
+algorithm	digital signal processing
+ecosystem	tropical rainforest
+identity management	access control
+evolutionary algorithm	gene expression programming
+functional group	isocyanate
+reductionism	monism
+robotics	cloud robotics
+personal computer	tablet computer
+logic programming	inductive logic programming
+computational trust	public key infrastructure
+smartphones	blackberry
+emergence	reductionism
+resource description framework	rss
+domain name system	domain name
+network architecture	network topology
+image processing	mathematical morphology
+remote sensing	satellite imagery
+brand management	brand valuation
+language family	austronesian language
+robotics	robot control
+emergence	system science
+computational biology	bioinformatics
+software design	software architecture
+computational mathematics	computational number theory
+formal method	automated theorem proving
+machine learning	deep learning
+robot control	robot locomotion
+graph theory	mathematical chemistry
+theoretical computer science	information theory
+numerical linear algebra	domain decomposition method
+online service	online journalism
+data modeling	building information modeling
+color	optical spectrum
+theoretical computer science	evolutionary computation
+software engineering	software quality
+cartography	map
+image processing	image compression
+video game development	video game design
+image processing	medical imaging
+network topology	mesh networking
+enterprise architecture	business architecture
+computer networking	network booting
+data security	electronic waste
+cryptography	disk encryption
+web service	instant messaging
+remote sensing	remote sensing software
+brand management	trademark
+cryptography	security engineering
+surveying	topography
+radiology	radiography
+programming language implementation	parsing

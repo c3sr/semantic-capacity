@@ -1,0 +1,750 @@
+abstract interpretation	4
+access control	2
+adaptable robotics	3
+adaptive clothing	5
+adaptive web design	4
+aerial photography	4
+affective computing	2
+afroasiatic language	5
+agile software development	4
+ainu language	5
+algebraic graph theory	3
+algic language	5
+algorave	4
+algorithmic art	3
+algorithmic information theory	2
+algorithmic trading	3
+algorithm	2
+ambient intelligence	3
+amiga	5
+amine	5
+analog computer	3
+analysis of algorithm	2
+animal identification	4
+anonymity	4
+anonymous social medium	5
+anthropometry	5
+antivirus software	3
+approximation theory	3
+araucanian language	5
+arawakan language	5
+architecture description language	3
+artificial intelligence	1
+artificial life	2
+artificial neural network	3
+as a service	4
+assistive technology	4
+atari st	5
+auburn hair	5
+audio electronics	4
+audio mixing	5
+austroasiatic language	5
+austronesian language	5
+authentication	3
+automated reasoning	2
+automated theorem proving	2
+automattic	3
+avionics	4
+aymaran language	5
+backup	3
+backup software	3
+backward compatibility	3
+bayesian network	3
+belief revision	3
+bioinformatics	3
+biological classification	5
+biometrics	4
+bionicle	5
+biorobotics	3
+bios	3
+bitcoin	4
+blackberry	4
+blond hair	5
+bluetooth	5
+booting	4
+braille	5
+brand management	4
+brand valuation	5
+brown hair	5
+build automation	4
+building information modeling	4
+business architecture	4
+business continuity	5
+cache coherency	3
+caddoan language	5
+calculus of variation	3
+call sign	5
+cardiac electrophysiology	5
+cargo spacecraft	5
+cariban language	5
+cartography	3
+cascading style sheet	4
+cat phone	5
+categorical logic	3
+cellular automaton	4
+central processing unit	2
+chaos theory	4
+character encoding	4
+chemical bonding	5
+chemical classification	5
+cheminformatics	2
+chibchan language	5
+chinookan language	5
+choco language	5
+chonan language	5
+chumashan language	5
+circuit complexity	3
+class of computer	2
+cloud computing	3
+cloud gaming	4
+cloud robotics	2
+cloud storage	3
+cluster analysis	3
+cluster computing	3
+code refactoring	3
+coding theory	3
+cognitive architecture	2
+cognitive inertia	4
+collaborative mapping	4
+collation	5
+color	4
+color photography	4
+color vision	4
+color	4
+combinatorial chemistry	3
+combinatorial optimization	2
+combinatory logic	3
+compiler construction	2
+compiler	4
+complex dynamic	4
+computability theory	2
+computational anatomy	4
+computational archaeology	4
+computational biology	2
+computational chemistry	2
+computational complexity theory	2
+computational electromagnetics	3
+computational fluid dynamic	2
+computational geometry	3
+computational group theory	3
+computational learning theory	2
+computational linguistics	2
+computational mathematics	2
+computational neuroscience	2
+computational number theory	3
+computational phylogenetics	5
+computational physic	2
+computational science	1
+computational social science	2
+computational statistic	3
+computational topology	3
+computational trust	2
+computer access control	2
+computer accessibility	5
+computer algebra	2
+computer architecture	1
+computer data storage	2
+computer forensics	2
+computer graphic	1
+computer memory	3
+computer networking	3
+computer network	4
+computer programming	2
+computer recycling	4
+computer security	1
+computer security software	2
+computer surveillance	2
+computer vision	2
+concurrency control	2
+concurrent computing	2
+configuration management	5
+conformity	5
+constraint logic programming	3
+constraint programming	3
+continuous integration	5
+control flow	4
+convex analysis	4
+convex hull algorithm	4
+convex optimization	2
+copy protection	4
+corpus linguistics	4
+cray	4
+credit rating	5
+cryptocurrencies	3
+cryptography	2
+cryptography law	3
+cryptography standard	3
+custom firmware	5
+cyberbullying	4
+cybercrime	3
+cyberinfrastructure	3
+cybernetics	5
+cyborg in fiction	4
+dark web	4
+darknet market	4
+data compression	3
+data differencing	3
+data erasure	3
+data mining	4
+data modeling	3
+data protection	3
+data security	2
+data structure	2
+database normalization	2
+database security	3
+database theory	1
+debian	4
+debugging	3
+declarative programming	4
+deep learning	3
+definition	5
+dell laptop	5
+demo	4
+demoscene	3
+denotational semantics	2
+desert	5
+detection theory	3
+dictionary	5
+differential privacy	3
+digital audio	5
+digital camera	4
+digital forensics	4
+digital geometry	2
+digital humanity	4
+digital photography	3
+digital right management	3
+digital signal processing	3
+digital signature	4
+digital watermarking	4
+disaster recovery	3
+disclosure	3
+disk cloning	4
+disk encryption	3
+distributed computing	3
+dogon language	5
+domain decomposition method	4
+domain name system	4
+domain name	5
+domain theory	3
+dpkg	5
+dravidian language	5
+dye	5
+ecosystem	4
+edward snowden	3
+electronic publishing	5
+electronic waste	3
+electrophysiology	4
+email	5
+email authentication	3
+email hacking	4
+embedded system	3
+emergence	3
+emergent gameplay	4
+ensemble learning	3
+enterprise application integration	3
+enterprise architecture	3
+enterprise modelling	4
+environmental testing	4
+ester	5
+ethereum	4
+evolution of tetrapod	5
+evolutionary algorithm	3
+evolutionary computation	2
+extremal graph theory	3
+extreme programming	5
+eye color	4
+face recognition	3
+fagan inspection	4
+fake news	5
+fault tolerance	3
+federated identity	3
+fiber optic	5
+file deletion	4
+finite difference	3
+finite element method	4
+firmware	4
+flow visualization	3
+folksonomy	4
+forest	5
+formal method	1
+formal specification	2
+forward proxy	4
+fractal	5
+functional group	4
+functional programming	5
+futurology	5
+fuzzy logic	2
+galois theory	5
+game accessibility	5
+gene expression programming	4
+genealogy	5
+generic programming	4
+genetic algorithm	4
+genetic programming	3
+genomics	5
+geographic information system	4
+geolocation	4
+geometric flow	4
+geometric graph theory	3
+geometric group theory	5
+geometry processing	2
+geosocial networking	5
+github	3
+global positioning system	5
+globe	5
+glossary	5
+glycomics	5
+google map	5
+graph coloring	3
+graph operation	3
+graph rewriting	3
+graph theory	2
+graphic hardware	2
+graphic software	2
+graphology	5
+grassland	5
+green	5
+group theory	4
+hadoop	4
+hair color	4
+hair coloring	5
+hardware restriction	3
+hearing aid	5
+heat exchanger	5
+heterogeneous computing	2
+history of cryptography	3
+holism	4
+holographic data storage	4
+holography	3
+holography in fiction	4
+holonomic brain theory	4
+home automation	3
+home inspection	5
+html	3
+human reliability	4
+hydrography	4
+hypercomputation	2
+identification	3
+identifier	4
+identity management	3
+identity management system	4
+image compression	3
+image processing	2
+image segmentation	3
+incremental computing	3
+indoor positioning system	4
+inductive logic programming	3
+information appliance	4
+information architecture	4
+information geometry	3
+information governance	3
+information privacy	2
+information theory	2
+instant messaging	4
+integration platform	3
+intellectualism	5
+interaction	4
+internationalization and localization	3
+internationalized domain name	4
+internet culture	5
+internet fraud	4
+internet of thing	4
+internet privacy	3
+internet radio	5
+internet safety	4
+internet search	4
+internet security	3
+internet television	5
+internet vigilantism	4
+interoperability	2
+interpolation	3
+interventional radiology	5
+ios	5
+ipad	5
+iphone	5
+iroquoian language	5
+isocyanate	5
+japonic language	5
+javascript	4
+jpeg	4
+json	4
+julian assange	5
+kalapuyan language	5
+kartvelian language	5
+keresan language	5
+ketone	5
+key management	3
+kleptography	3
+knowledge engineering	2
+knowledge representation	2
+koreanic language	5
+lambda calculus	2
+landforms	5
+language family	4
+laptop	4
+law of robotics	3
+least square	3
+lencan language	5
+lexicography	4
+limit of computation	2
+limnology	5
+linear programming	3
+linux	4
+linux distribution	5
+linux kernel	3
+list of color	5
+literate programming	4
+live coding	3
+local loop	3
+locksmithing	4
+logic programming	2
+mac os	4
+machine learning	2
+machine to machine	5
+machine translation	3
+machine vision	3
+machinima	4
+macos	4
+maemo	4
+magnetic resonance imaging	4
+malware	3
+mande language	5
+map series	5
+map	4
+matching	3
+mathematical chemistry	3
+mathematical induction	4
+mathematical morphology	3
+mathematical optimization	1
+mayan language	5
+medical imaging	3
+medical privacy	3
+medical simulation	4
+medical software	3
+medical ultrasonography	4
+memory management	4
+merchandise	5
+mesh generation	3
+mesh networking	3
+metaprogramming	5
+method engineering	4
+microprocessor	3
+middleware	3
+military computer	3
+missile guidance	4
+misumalpan language	5
+mobile device management	4
+mobile malware	3
+mobile phone recycling	5
+mobile phone	4
+mobile security	2
+mobile web	5
+modal logic	3
+model checking	2
+modularity	5
+molecular dynamic	3
+molecular modelling	5
+mongolic language	5
+monism	5
+moonshine theory	5
+moral psychology	5
+morphology	5
+morse theory	4
+motion capture	4
+multivariate interpolation	4
+muskogean language	5
+name	5
+national security agency	4
+natural language generation	3
+natural language processing	3
+net neutrality	4
+netgear	4
+nettop	5
+network analysis	4
+network architecture	2
+network booting	4
+network flow problem	3
+network management	4
+network performance	3
+network service	4
+network socket	4
+network theory	3
+network topology	3
+networking hardware	4
+neural coding	3
+neural network software	3
+neuroinformatics	4
+neuroprosthetics	4
+neurostimulation	4
+neurotechnology	3
+nextcloud	4
+nilotic language	5
+nivkh language	5
+nubian language	5
+nuclear medicine	5
+numerical analysis	2
+numerical linear algebra	3
+object request broker	4
+oceanography	5
+omics	4
+ongan language	5
+online analytical processing	5
+online chat	5
+online child abuse	4
+online help	5
+online journalism	5
+online service	4
+operating system advocacy	3
+operating system	2
+operation research	5
+optical coherence tomography	5
+optical spectrum	4
+optimal control	4
+os	4
+osi model	3
+packet radio	5
+paint	5
+panama paper	5
+parallel computing	3
+parameterized complexity	3
+pareto efficiency	2
+parsing	3
+pattern matching	3
+perimeter security	4
+perl	4
+personal computer	4
+personality right	4
+perturbation theory	4
+phenomenology	5
+phenomics	5
+philosophy of mind	4
+philosophy of psychology	5
+photogrammetry	3
+phylogenetics	4
+physical computing	3
+pigment	5
+pink	5
+podcasting	4
+polyhedron	4
+pomoan language	5
+positron emission tomography	4
+predicate logic	3
+primary color	5
+prison food	5
+prison healthcare	5
+prison	4
+privacy law	3
+privacy software	3
+procedural generation	2
+process mining	5
+program analysis	2
+program transformation	2
+programming language implementation	3
+programming language theory	1
+programming language	2
+prosthetics	5
+proteomics	5
+provability logic	4
+proxy server	4
+pseudorandomness	2
+public key infrastructure	3
+push technology	5
+quality management	5
+quality of service	4
+quantification	4
+quantum complexity theory	3
+quantum computing	2
+quantum cryptography	3
+quantum information science	2
+quantum information theory	3
+quantum programming	3
+quechuan language	5
+queueing theory	4
+radiation therapy	5
+radio direction finding	5
+radio resource management	5
+radiography	5
+radiology	4
+rainbow	4
+raku	4
+ransomware	3
+raster graphic	2
+rating	4
+reconfigurable computing	3
+recursion	3
+red hair	5
+reductionism	4
+regular expression	4
+reinforcement learning	3
+relational algebra	4
+reliability engineering	3
+remote control	5
+remote procedure call	4
+remote sensing	4
+remote sensing software	4
+representation theory	5
+resource description framework	4
+responsive web design	4
+reverse proxy	4
+robot control	3
+robot kinematics	4
+robot locomotion	4
+robot navigation	4
+robotic sensing	4
+robotics	2
+robot	2
+routing	5
+rss	5
+saharan language	5
+salishan language	5
+satellite imagery	5
+scalable vector graphic	3
+school color	5
+scientific classification	4
+scientific visualization	2
+secret sharing	4
+secure communication	4
+security engineering	3
+semantic web	3
+sepik language	5
+serverless computing	4
+shade of green	5
+shading	2
+signal processing	3
+signature	4
+siouan language	5
+smart card	3
+smart device	3
+smart grid	4
+smart tv	4
+smartphone patent war	5
+smartphones	4
+software architecture	2
+software design	2
+software development	2
+software development process	3
+software documentation	3
+software engineering	1
+software maintenance	2
+software project management	3
+software quality	2
+software release	3
+software requirement	2
+software review	3
+software testing	2
+songhay language	5
+source code	3
+spamming	4
+speculative execution	2
+speech processing	4
+speech recognition	3
+speech synthesis	4
+static program analysis	3
+statistical distance	4
+statistical signal processing	4
+steganography	3
+stereoscopy	2
+stochastic control	3
+stochastic optimization	2
+storage virtualization	3
+structural analysis	3
+structural bioinformatics	4
+structured prediction	3
+subgroup series	5
+subroutine	4
+succinct data structure	3
+supercomputer operating system	3
+supercomputer	3
+supervised learning	3
+support vector machine	3
+surveying	4
+synchronization	5
+synthetic aperture radar	5
+synthetic biology	4
+system image	4
+system biology	5
+system ecology	5
+system engineering	5
+system psychology	5
+system science	4
+system theory	5
+system thinking	4
+tablet computer	4
+taxonomy	4
+technology assessment	5
+telehealth	5
+teleology	5
+telepresence	5
+temperature control	4
+temporal logic	2
+terminology	5
+tessellation	5
+texture compression	3
+texture filtering	2
+texture mapping	2
+theoretical computer science	1
+theory of computation	1
+theory of constraint	5
+theory of mind	5
+thermoregulation	5
+tomography	4
+topography	4
+topological graph theory	3
+topos theory	4
+tracking	4
+trademark	5
+transaction processing	3
+transactional memory	3
+transport layer security	2
+travelling salesman problem	3
+tropical rainforest	5
+tumblr	4
+turing machine	2
+type inference	3
+type theory	2
+ubiquitous computing	3
+ubuntu	4
+uncrewed spacecraft	4
+unicode	5
+uninterruptible power supply	3
+unit testing	3
+unit of information	3
+unix	3
+unsupervised learning	3
+url	4
+usenet	5
+vaio	5
+variance reduction	4
+vector graphic	2
+venona project	4
+version control	2
+video compression	4
+video game design	4
+video game development	3
+video game graphic	2
+video game localization	4
+video on demand	5
+video processing	4
+virtual memory	5
+vocabulary	5
+volunteer computing	4
+warning coloration	4
+web accessibility	3
+web analytics	3
+web color	5
+web design	3
+web development	2
+web fiction	5
+web hosting	5
+web mapping	4
+web scraping	5
+web service	3
+web syndication	3
+wiki software	5
+wikileaks	4
+wikis	4
+wireless networking	4
+wireless sensor network	5
+wordpress	4
+xmpp	5
+z notation	2
